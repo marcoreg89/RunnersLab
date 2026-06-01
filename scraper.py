@@ -54,7 +54,12 @@ def scrape_fidal():
             if is_marathon or is_half:
                 try:
                     # Formatta la data nel formato atteso dall'App iOS (yyyy-MM-dd)
-                    day, month = date_str.split('/')
+                    day, month = date_str.split('/')                                                                                     
+                        # Alcune gare durano due giorni, es "11-12/04", teniamo solo il primo giorno                                         
+                        if '-' in day:                                                                                                       
+                            day = day.split('-')[0]                                                                                          
+                                                                                                                                             
+                        race_date = f"{year}-{month}-{day}" 
                     race_date = f"{year}-{month}-{day}"
                 except:
                     continue
