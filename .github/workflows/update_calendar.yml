@@ -1,0 +1,39 @@
+name: Aggiornamento Calendario Gare
+
+on:
+  schedule:
+    - cron: '0 3 * * 1' # Esegue ogni lunedì notte alle 3:00 AM UTC
+  workflow_dispatch: # Permette di eseguire il bot anche manualmente cliccando un tasto
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Scarica il codice dal repository
+      uses: actions/checkout@v4
+      env:
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    - name: Prepara l'ambiente Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+      env:
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    - name: Installa le librerie necessarie
+      run: pip install -r requirements.txt
+
+    - name: Esegui lo script Scraper
+      run: python scraper.py
+
+    - name: Salva il nuovo JSON e fai il Push su GitHub
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add races.json
+        git commit -m "Aggiornamento automatico gare settimanale" || exit 0
+        git push
