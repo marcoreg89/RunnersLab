@@ -11,9 +11,9 @@ def scrape_fidal():
     # Parametri di ricerca sul sito FIDAL (tipo=6 è 'Strada')
     params = {
         'anno': year,
-        'mese': 0,
-        'livello': 0,
-        'tipo': 6, 
+        'mese': '',
+        'livello': 'COD',
+        'new_tipo': 6, 
         'submit': 'Invia'
     }
     
