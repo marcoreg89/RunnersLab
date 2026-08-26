@@ -1,0 +1,22 @@
+name: Pulizia storico Actions
+
+on:
+  schedule:
+    - cron: '0 4 * * 1' # Ogni lunedì alle 4:00 UTC, un'ora dopo l'aggiornamento calendario
+  workflow_dispatch: # Permette di lanciarla manualmente
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+
+    steps:
+    - name: Elimina le run vecchie
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 30
+        keep_minimum_runs: 10
