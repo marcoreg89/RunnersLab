@@ -94,7 +94,7 @@ def main():
     # Ordina cronologicamente
     unique_races.sort(key=lambda x: x['date'])
     
-    with open('races.json', 'w', encoding='utf-8') as f:
+    with open('races_calendar.json', 'w', encoding='utf-8') as f:
         json.dump(unique_races, f, ensure_ascii=False, indent=2)
         
     print(f"Completato! Estratte {len(unique_races)} gare dal sito ufficiale FIDAL.")
