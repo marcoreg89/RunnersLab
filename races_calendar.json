@@ -1,6 +1,6 @@
 [
   {
-    "id": "377bc9db-bfc4-4ae8-b4cd-ab8bb7665389",
+    "id": "afa2de8c-9bfa-4daf-87e1-0e847aea3c3f",
     "date": "2026-01-06",
     "name": "XVII^ Mezza Maratona sul Brembo",
     "location": "Dalmine (BG)",
@@ -9,25 +9,7 @@
     "isInternational": false
   },
   {
-    "id": "1f910c1d-eb96-4898-a6a0-eaa4d6f78def",
-    "date": "2026-01-11",
-    "name": "Annullata - XV^ Maratona Antonello da Messina",
-    "location": "Messina (ME)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "4f9fb3b9-f271-480e-a58b-cf1e6fc7d869",
-    "date": "2026-01-11",
-    "name": "I^ StraGardaLake - Run Your Dream",
-    "location": "Desenzano Del Garda (BS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "d72ad77e-ab68-4a95-aeea-78298b316a96",
+    "id": "2a91cf66-dfe2-442e-93cc-ade6aea4074f",
     "date": "2026-01-11",
     "name": "VIII^ Terni Half Marathon",
     "location": "Terni (TR)",
@@ -36,34 +18,25 @@
     "isInternational": false
   },
   {
-    "id": "37e68a23-911e-450c-8287-cb1140b66ce0",
-    "date": "2026-01-18",
-    "name": "XXI^ Mangia’s Maratona di Ragusa",
-    "location": "Ragusa (RG)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "f6d3ef5c-2b13-4a8c-8a28-628e2e747708",
-    "date": "2026-01-18",
-    "name": "XIX^ Mezza Maratona Int.le delle Due Perle",
-    "location": "Santa Margherita Ligure (GE)",
+    "id": "8c77d6a7-be4c-4b6d-9b66-bfd7389163bd",
+    "date": "2026-01-11",
+    "name": "I^ StraGardaLake - Run Your Dream",
+    "location": "Desenzano Del Garda (BS)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "7571c375-2743-478b-a1df-9d61339a2e01",
-    "date": "2026-01-18",
-    "name": "II^ Portofino Marathon",
-    "location": "Rapallo (GE)",
+    "id": "2ba86d6c-f7a7-46cf-9679-666ca218cf2c",
+    "date": "2026-01-11",
+    "name": "Annullata - XV^ Maratona Antonello da Messina",
+    "location": "Messina (ME)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "3a264dbf-2c6d-4658-a50d-1b5ac1e09591",
+    "id": "bf12bff6-2c3e-46d5-8466-6cb4a095538e",
     "date": "2026-01-18",
     "name": "XXI^ Mangia’s Straragusa",
     "location": "Ragusa (RG)",
@@ -72,7 +45,34 @@
     "isInternational": false
   },
   {
-    "id": "0eca1c1d-4cd3-4f43-bfdc-9ad41e233fa8",
+    "id": "bfe8d1ca-0674-494a-acdd-87586cd60383",
+    "date": "2026-01-18",
+    "name": "XIX^ Mezza Maratona Int.le delle Due Perle",
+    "location": "Santa Margherita Ligure (GE)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "f063a132-09bc-4c00-a2b9-f8b613ec0505",
+    "date": "2026-01-18",
+    "name": "II^ Portofino Marathon",
+    "location": "Rapallo (GE)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "0d74109b-4c1a-4631-b457-0542a4bdba7f",
+    "date": "2026-01-18",
+    "name": "XXI^ Mangia’s Maratona di Ragusa",
+    "location": "Ragusa (RG)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "6ec0df24-acc8-496d-8ed9-d772e18632cf",
     "date": "2026-01-25",
     "name": "XVII^ Maratonina dello Jonio 2026",
     "location": "Gallipoli (LE)",
@@ -81,34 +81,7 @@
     "isInternational": false
   },
   {
-    "id": "69f2d48e-fd2d-4a26-b186-5f06fd4a28e5",
-    "date": "2026-01-25",
-    "name": "II^ Faenza Half Marathon",
-    "location": "Faenza (RA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "e5db8f9c-e3bf-462f-b61b-421e68f4973e",
-    "date": "2026-01-25",
-    "name": "III^ Nuceria Paganorum Half Marathon - XXV Memorial Franco De Maio",
-    "location": "Nocera Inferiore (SA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "30f90088-2882-42a2-bcdf-0c80c794eb79",
-    "date": "2026-01-25",
-    "name": "CAMPIONATO NAZIONALE AICS DI MEZZA MARATONA",
-    "location": "Frosinone (FR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3f7f3d8a-92fc-47fa-8344-d3ba05bd47b1",
+    "id": "8057d60b-7eae-4e04-a976-aa6634628609",
     "date": "2026-01-25",
     "name": "V^ Novara Half Marathon",
     "location": "Novara (NO)",
@@ -117,16 +90,34 @@
     "isInternational": false
   },
   {
-    "id": "6928b51b-23aa-4603-a8bf-7c2eb6133e91",
-    "date": "2026-02-01",
-    "name": "XXI^ Mezza Maratona del Castello",
-    "location": "Vittuone (MI)",
+    "id": "23828f0e-b252-43fc-a1bb-cc602c50f7a2",
+    "date": "2026-01-25",
+    "name": "CAMPIONATO NAZIONALE AICS DI MEZZA MARATONA",
+    "location": "Frosinone (FR)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "a13e9716-4b78-496b-ba0d-7ca579b3106b",
+    "id": "df8b7c87-9b2d-4d5e-a07e-0c4376304ff5",
+    "date": "2026-01-25",
+    "name": "II^ Faenza Half Marathon",
+    "location": "Faenza (RA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "6c22faa0-a8e7-47cc-81ad-1a52b75294b7",
+    "date": "2026-01-25",
+    "name": "III^ Nuceria Paganorum Half Marathon - XXV Memorial Franco De Maio",
+    "location": "Nocera Inferiore (SA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "956bc002-f1b2-4fac-8db8-22dcbb6e50e9",
     "date": "2026-02-01",
     "name": "VI^ Maratona Maga Circe",
     "location": "San Felice Circeo (LT)",
@@ -135,25 +126,16 @@
     "isInternational": false
   },
   {
-    "id": "ddd1a3c8-7558-4d40-ae71-ceca2032b72a",
-    "date": "2026-02-08",
-    "name": "XIV^ Volkswagen Barletta Half Marathon",
-    "location": "Barletta (BT)",
+    "id": "ed851e10-a670-4acf-9899-cf007f14db90",
+    "date": "2026-02-01",
+    "name": "XXI^ Mezza Maratona del Castello",
+    "location": "Vittuone (MI)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "8ee5c4ce-2c0b-4c8a-b885-60004d5c5d66",
-    "date": "2026-02-08",
-    "name": "XII^ Maratonina dei Nebrodi - Memorial Finanziere Maurizio Gorgone",
-    "location": "Sant'agata Di Militello (ME)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "d1714803-be5f-4f48-bdf8-312ae8dc125c",
+    "id": "b5458770-8fc4-4725-9867-31fbc74607ed",
     "date": "2026-02-08",
     "name": "XXXV^ Maratonina di Centobuchi",
     "location": "Monteprandone (AP)",
@@ -162,16 +144,16 @@
     "isInternational": false
   },
   {
-    "id": "d9f42345-fe6f-4982-983a-b34d0b097dea",
+    "id": "818072de-d10b-46f5-91ca-9ebb1c7762fc",
     "date": "2026-02-08",
-    "name": "I^ Rovigo in Love Half Marathon",
-    "location": "Rovigo (RO)",
+    "name": "XIV^ Volkswagen Barletta Half Marathon",
+    "location": "Barletta (BT)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "2891a6c6-460a-4290-a487-389c1279515f",
+    "id": "9f712275-238a-4b7a-937b-c85907aa468b",
     "date": "2026-02-08",
     "name": "XI^ Corri Fregene Half Marathon",
     "location": "Fiumicino (RM)",
@@ -180,7 +162,7 @@
     "isInternational": false
   },
   {
-    "id": "14467320-4486-4a00-a513-90efeab81ec0",
+    "id": "c71d2ec7-618e-4607-b5e5-b34031e91d76",
     "date": "2026-02-08",
     "name": "II^ Volkswagen Barletta Marathon",
     "location": "Barletta (BT)",
@@ -189,7 +171,7 @@
     "isInternational": false
   },
   {
-    "id": "d2e22a9a-08ea-42a0-b712-eb80a1914735",
+    "id": "efffa393-e224-432d-a08b-acec3adef940",
     "date": "2026-02-08",
     "name": "Annullata - II^ Citta' di Vercelli Half Marathon",
     "location": "Vercelli (VC)",
@@ -198,7 +180,16 @@
     "isInternational": false
   },
   {
-    "id": "79559261-b1ce-49be-a08b-2981df7afef9",
+    "id": "f02c181f-2861-4483-a318-9ece591d5d23",
+    "date": "2026-02-08",
+    "name": "I^ Rovigo in Love Half Marathon",
+    "location": "Rovigo (RO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a948e8eb-8d54-4675-aa5c-0fb094881a76",
     "date": "2026-02-08",
     "name": "XIII^ Bergamo21",
     "location": "Bergamo (BG)",
@@ -207,25 +198,16 @@
     "isInternational": false
   },
   {
-    "id": "b2aea41e-a05e-4aec-ad54-67ddaeafdd2a",
-    "date": "2026-02-15",
-    "name": "XIX^ Romeo & Giulietta Run Half Marathon",
-    "location": "Verona (VR)",
+    "id": "7aab71d2-7606-4fb5-9f52-b9761d53ec01",
+    "date": "2026-02-08",
+    "name": "XII^ Maratonina dei Nebrodi - Memorial Finanziere Maurizio Gorgone",
+    "location": "Sant'agata Di Militello (ME)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "02fd7efb-9042-4dbd-9076-6a82b27255e3",
-    "date": "2026-02-15",
-    "name": "XV^ Maratona di San Valentino",
-    "location": "Terni (TR)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3155b499-8c43-4b79-8484-2416f9cf5413",
+    "id": "8bc95c0c-72a9-470b-8dca-811e2b0e9193",
     "date": "2026-02-15",
     "name": "IX^ White Marble Marathon",
     "location": "Carrara (MS)",
@@ -234,7 +216,7 @@
     "isInternational": false
   },
   {
-    "id": "3757e611-3ef3-4d9d-a44d-dc4303084d4c",
+    "id": "293c8a7a-0cd8-4485-b343-f3bba82bd8f3",
     "date": "2026-02-15",
     "name": "IX^ World Running Academy Half Marathon",
     "location": "Carrara (MS)",
@@ -243,7 +225,25 @@
     "isInternational": false
   },
   {
-    "id": "db38871b-5ff7-471f-8f0e-6a4b92bb27c9",
+    "id": "95cd6087-7b40-457f-8f20-45c33b7191b9",
+    "date": "2026-02-15",
+    "name": "XV^ Maratona di San Valentino",
+    "location": "Terni (TR)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "732793bc-836c-479c-9e40-2be58da042d4",
+    "date": "2026-02-15",
+    "name": "XIX^ Romeo & Giulietta Run Half Marathon",
+    "location": "Verona (VR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "fa2dbf60-32e5-4140-bd40-b50b4364d786",
     "date": "2026-02-15",
     "name": "XV^ Mezza Maratona di San Valentino",
     "location": "Terni (TR)",
@@ -252,7 +252,7 @@
     "isInternational": false
   },
   {
-    "id": "fd7261bd-f202-4352-98f9-d3898524d8be",
+    "id": "58a67b36-c700-453f-88ae-9429b964e12d",
     "date": "2026-02-21",
     "name": "V^ Ultramaratona del Conero - 30km",
     "location": "Porto Recanati (MC)",
@@ -261,7 +261,7 @@
     "isInternational": false
   },
   {
-    "id": "a62ef5ae-41a3-4508-9325-5033c15cdaf3",
+    "id": "f2234575-2417-4fe0-9ece-3af39eee4762",
     "date": "2026-02-21",
     "name": "V^ Ultramaratona del Conero - 10km",
     "location": "Porto Recanati (MC)",
@@ -270,25 +270,7 @@
     "isInternational": false
   },
   {
-    "id": "88d30613-6270-4ef4-adf0-9574298874b1",
-    "date": "2026-02-22",
-    "name": "XII^ Mezza Maratona di Oristano (km 10)",
-    "location": "Oristano (OR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "984d7cb7-1728-4f26-a035-add4462d1ce9",
-    "date": "2026-02-22",
-    "name": "XXIII^ Maratonina di Treviglio",
-    "location": "Treviglio (BG)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "d088aed6-ae59-447a-ba76-3a9315f25a79",
+    "id": "28d9fbe3-6755-45aa-b59a-86ebeb27ee60",
     "date": "2026-02-22",
     "name": "XII^ Mezza Maratona di Oristano",
     "location": "Oristano (OR)",
@@ -297,34 +279,7 @@
     "isInternational": false
   },
   {
-    "id": "96cd731e-f392-469e-b0fa-4c523eba661f",
-    "date": "2026-02-22",
-    "name": "XXVII^ Verdi Marathon (km 42,195)",
-    "location": "Salsomaggiore Terme (PR)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "6aa5b2f8-1a19-47b8-91ef-a441ba00a5f9",
-    "date": "2026-02-22",
-    "name": "XI^ La Mezza del Marchesato",
-    "location": "Saluzzo (CN)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "22293755-06cb-4f1e-8727-6c364cb1f610",
-    "date": "2026-02-22",
-    "name": "XII^ Napoli City Half Marathon",
-    "location": "Napoli (NA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "7ceed272-fc91-43ae-9038-83c842636f93",
+    "id": "02aac5f7-a071-4b3e-8521-27104c92bfa6",
     "date": "2026-02-22",
     "name": "XV^ Mezza Maratona \"Eufemio da Messina\"",
     "location": "Messina (ME)",
@@ -333,7 +288,16 @@
     "isInternational": false
   },
   {
-    "id": "8cdaa9b3-47dc-4510-896b-131565fde39d",
+    "id": "f636b632-252a-4134-9d17-676397ebc768",
+    "date": "2026-02-22",
+    "name": "XII^ Mezza Maratona di Oristano (km 10)",
+    "location": "Oristano (OR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "bf457605-58f5-4037-8796-e947363e3f50",
     "date": "2026-02-22",
     "name": "XXVII^ Verdi Marathon (km 21,0975)",
     "location": "Salsomaggiore Terme (PR)",
@@ -342,16 +306,43 @@
     "isInternational": false
   },
   {
-    "id": "e76e12fa-59ca-48a6-9f9d-777afdf67a46",
-    "date": "2026-03-01",
-    "name": "XVII^ Lecco City Half Marathon",
-    "location": "Lecco (LC)",
+    "id": "6f8d23d3-0ba9-4788-9198-bd54fb718871",
+    "date": "2026-02-22",
+    "name": "XXVII^ Verdi Marathon (km 42,195)",
+    "location": "Salsomaggiore Terme (PR)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "17223a51-3c81-41df-8cdb-8bb12eac68d7",
+    "date": "2026-02-22",
+    "name": "XXIII^ Maratonina di Treviglio",
+    "location": "Treviglio (BG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "53e726d2-8071-480b-a8db-83e811a5f0ed",
+    "id": "021921e2-7976-4073-a460-64c7dde12987",
+    "date": "2026-02-22",
+    "name": "XII^ Napoli City Half Marathon",
+    "location": "Napoli (NA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "b39263df-4356-47f0-878e-b289e33d0927",
+    "date": "2026-02-22",
+    "name": "XI^ La Mezza del Marchesato",
+    "location": "Saluzzo (CN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "0af0dba5-653d-4145-a4b5-1056609aa060",
     "date": "2026-03-01",
     "name": "XXII^ Run Tune Up",
     "location": "Bologna (BO)",
@@ -360,16 +351,7 @@
     "isInternational": false
   },
   {
-    "id": "faceaf11-c6c3-4530-8261-1176018a67be",
-    "date": "2026-03-01",
-    "name": "V^ Bologna Marathon",
-    "location": "Bologna (BO)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "d729fb08-ee11-4b13-bb25-1c2db53d0b85",
+    "id": "19813b0f-effa-4a59-af87-5fd64177c3d5",
     "date": "2026-03-01",
     "name": "LI^ RomaOstia Half Marathon",
     "location": "Roma RM",
@@ -378,70 +360,25 @@
     "isInternational": false
   },
   {
-    "id": "aea9330c-e59f-4d3f-881e-7f36d8597779",
-    "date": "2026-03-08",
-    "name": "XVIII^ Lago Maggiore Half Marathon - Mezza Maratona",
-    "location": "Verbania (VB)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "bcf9f71b-1d09-4d3f-b257-67934853b7f2",
-    "date": "2026-03-08",
-    "name": "XIV^ Brescia Half Marathon",
-    "location": "Brescia (BS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "02a304e7-1b10-4afb-a612-667b345546b8",
-    "date": "2026-03-08",
-    "name": "XXIV^ Brescia Art Marathon",
-    "location": "Brescia (BS)",
+    "id": "d63b1c32-2f43-4342-a6ac-00509662cb75",
+    "date": "2026-03-01",
+    "name": "V^ Bologna Marathon",
+    "location": "Bologna (BO)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "f4ad769d-d45d-4590-892f-a6ddbb6ea9be",
-    "date": "2026-03-08",
-    "name": "XI^ Run For Life 21Km",
-    "location": "Monza (MB)",
+    "id": "2cb90b91-a66d-43e7-889c-a548a82e2873",
+    "date": "2026-03-01",
+    "name": "XVII^ Lecco City Half Marathon",
+    "location": "Lecco (LC)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "8b9d53a8-8d25-491a-8b09-594bd4085bf6",
-    "date": "2026-03-08",
-    "name": "XXVII^ Maratonina Comune di Brugnera - Alto Livenza",
-    "location": "Brugnera (PN)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "be1e7a1e-c231-466b-a5ec-555a3b4fe3ed",
-    "date": "2026-03-08",
-    "name": "V^ Derthona Half Marathon",
-    "location": "Tortona (AL)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "8d715ed3-9e50-4666-9159-37abd849ca77",
-    "date": "2026-03-08",
-    "name": "XVI^ Mare&Sale Half Marathon",
-    "location": "Margherita Di Savoia (BT)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "83e2f03d-9106-4a17-9e56-c712b11649a7",
+    "id": "73716f75-0c39-40e9-ab38-01ebcccae643",
     "date": "2026-03-08",
     "name": "L^ Stracivitanova",
     "location": "Civitanova Marche (MC)",
@@ -450,16 +387,25 @@
     "isInternational": false
   },
   {
-    "id": "472241ce-c38a-42b7-9b0b-857ba72f8073",
+    "id": "afed53e3-a095-42d0-aa56-b7e6391a0f29",
     "date": "2026-03-08",
-    "name": "XIV^ Mezza Maratona Citta' di Imperia",
-    "location": "Imperia (IM)",
+    "name": "XXVII^ Maratonina Comune di Brugnera - Alto Livenza",
+    "location": "Brugnera (PN)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "ca175094-c6ff-4fa0-9e3f-0bcc0d611293",
+    "id": "c1461750-ae02-4a20-aa19-2b049c608872",
+    "date": "2026-03-08",
+    "name": "XI^ Run For Life 21Km",
+    "location": "Monza (MB)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "dda168d4-3235-47e3-b550-98d2933c043b",
     "date": "2026-03-08",
     "name": "XII^ Maratonina del Golfo",
     "location": "Gela (CL)",
@@ -468,7 +414,43 @@
     "isInternational": false
   },
   {
-    "id": "3170406b-89d0-470a-b172-99b015035b21",
+    "id": "cc5b06ce-e0a4-45a9-81e0-aa7c27ef69b0",
+    "date": "2026-03-08",
+    "name": "XIV^ Brescia Half Marathon",
+    "location": "Brescia (BS)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "901a7e0e-f930-4cd0-b1d8-13785762d1bf",
+    "date": "2026-03-08",
+    "name": "XIV^ Mezza Maratona Citta' di Imperia",
+    "location": "Imperia (IM)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1f12c43d-aec2-4d02-a563-5e61b0c70297",
+    "date": "2026-03-08",
+    "name": "XVI^ Mare&Sale Half Marathon",
+    "location": "Margherita Di Savoia (BT)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3795cf60-8b0b-4bcf-a4bb-612b89bb5a54",
+    "date": "2026-03-08",
+    "name": "XXIV^ Brescia Art Marathon",
+    "location": "Brescia (BS)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1eef1108-a820-4a54-80b7-a7fbb032df86",
     "date": "2026-03-08",
     "name": "Annullata - XIII^ Mezza Maratona Citta' di Enna",
     "location": "Enna (EN)",
@@ -477,25 +459,25 @@
     "isInternational": false
   },
   {
-    "id": "3f45070b-cfb7-4d36-8f15-4ea27e7a7a12",
+    "id": "1144e16d-9347-4751-8293-be62e46bba00",
     "date": "2026-03-08",
-    "name": "XIX^ Strasimeno Half Marathon",
-    "location": "Castiglione Del Lago (PG)",
+    "name": "V^ Derthona Half Marathon",
+    "location": "Tortona (AL)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "37514587-389e-44b6-af44-e97f6bc80893",
+    "id": "6fe04c3c-5d5b-49b3-bca1-94d624e1f3ed",
     "date": "2026-03-08",
-    "name": "XIX^ Strasimeno Marathon",
-    "location": "Castiglione Del Lago (PG)",
-    "type": "Maratona",
+    "name": "XVIII^ Lago Maggiore Half Marathon - Mezza Maratona",
+    "location": "Verbania (VB)",
+    "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "ab15768a-07b6-4813-86fd-4278cda57477",
+    "id": "fa5fd14e-358b-4368-b5bb-5166ec15cb97",
     "date": "2026-03-08",
     "name": "XVIII^ Lago Maggiore Half Marathon - 10 km",
     "location": "Verbania (VB)",
@@ -504,34 +486,25 @@
     "isInternational": false
   },
   {
-    "id": "27fa0dfa-30c5-4c92-a2d1-6932b1e83441",
-    "date": "2026-03-15",
-    "name": "III^ Mezza Maratona “21k Tra Storia e Natura”",
-    "location": "Lecce (LE)",
+    "id": "483803d3-80f7-4d14-a54a-7bab27336bb5",
+    "date": "2026-03-08",
+    "name": "XIX^ Strasimeno Half Marathon",
+    "location": "Castiglione Del Lago (PG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "e5c8f87f-8933-4c29-b59f-61c44dfc113c",
-    "date": "2026-03-15",
-    "name": "XIX^ Scarpadoro Half Marathon",
-    "location": "Vigevano (PV)",
-    "type": "Mezza Maratona",
+    "id": "f20228d8-0c2d-4287-b238-7eb8034b92a3",
+    "date": "2026-03-08",
+    "name": "XIX^ Strasimeno Marathon",
+    "location": "Castiglione Del Lago (PG)",
+    "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "df8a6bc7-5120-429c-a0d0-fc91150723bb",
-    "date": "2026-03-15",
-    "name": "XI^ Maratonina della Vittoria",
-    "location": "Vittorio Veneto (TV)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "180ad319-1195-478f-a1b3-ab7d6733c8e4",
+    "id": "d5759909-32d4-4d3b-8ab4-61fe2f09bc09",
     "date": "2026-03-15",
     "name": "VIII^ La 21 di Reggio",
     "location": "Reggio Nell'emilia (RE)",
@@ -540,16 +513,34 @@
     "isInternational": false
   },
   {
-    "id": "b5d8c6ec-ddf2-40d6-8adb-827e0a92d667",
-    "date": "2026-03-22",
-    "name": "III^ Cervia Run (21,0975 km)",
-    "location": "Cervia (RA)",
+    "id": "b90b665a-5f77-44cf-838b-8b3d6c24b06f",
+    "date": "2026-03-15",
+    "name": "XI^ Maratonina della Vittoria",
+    "location": "Vittorio Veneto (TV)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "f70e63af-dcf7-4e51-8aa6-4c09b3fb4234",
+    "id": "0a4c1f32-037f-441f-945e-d9c71b5d174b",
+    "date": "2026-03-15",
+    "name": "XIX^ Scarpadoro Half Marathon",
+    "location": "Vigevano (PV)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "9e4f4e8d-42a4-43f8-bc32-14be6368f8b5",
+    "date": "2026-03-15",
+    "name": "III^ Mezza Maratona “21k Tra Storia e Natura”",
+    "location": "Lecce (LE)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "5af4e20c-6cb5-48da-b62b-245ca1ae776a",
     "date": "2026-03-22",
     "name": "XXIX^ Dogi's Half Marathon",
     "location": "Fiesso D'artico (VE)",
@@ -558,16 +549,16 @@
     "isInternational": false
   },
   {
-    "id": "e893f2b0-109b-4c74-bad9-4ac8d17dde0b",
+    "id": "58899741-418c-4602-8be5-ead76a3777e0",
     "date": "2026-03-22",
-    "name": "XIII^ Bossoni Half Marathon",
-    "location": "Orzinuovi (BS)",
+    "name": "III^ Cervia Run (21,0975 km)",
+    "location": "Cervia (RA)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "ca79d224-c947-4ab5-870f-7ed55c0bfba0",
+    "id": "90842d3d-c1a6-4c35-9718-cff138d348f0",
     "date": "2026-03-22",
     "name": "XXXI^ Run Rome The Marathon",
     "location": "Roma RM",
@@ -576,34 +567,16 @@
     "isInternational": false
   },
   {
-    "id": "22386165-e806-4658-beb0-ec992d7db442",
-    "date": "2026-03-29",
-    "name": "Annullata - I^ Valle dell'Agno Half Marathon",
-    "location": "Trissino (VI)",
+    "id": "38d0520f-57c6-4e30-b109-931116f1d6bc",
+    "date": "2026-03-22",
+    "name": "XIII^ Bossoni Half Marathon",
+    "location": "Orzinuovi (BS)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "9957501c-ec1e-48eb-bf3a-3bb32b337ac2",
-    "date": "2026-03-29",
-    "name": "XXII^ Mezza Maratona della Concordia Citta' di Agrigento",
-    "location": "Agrigento (AG)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3692d194-e805-471a-8908-316b6325da10",
-    "date": "2026-03-29",
-    "name": "II^ Half Marathon \"Memorial Enzo Ferrari\"",
-    "location": "Maranello (MO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "e47d324d-5adb-48c3-9553-9b45b397a665",
+    "id": "e60c8861-da4a-4238-8bb1-c070f376f66a",
     "date": "2026-03-29",
     "name": "V^ Half Marathon \"La Mezza del Metauro\"",
     "location": "Fossombrone (PU)",
@@ -612,16 +585,16 @@
     "isInternational": false
   },
   {
-    "id": "f947aec0-25f0-4712-8c78-8d79a5566ad9",
+    "id": "73372906-8f4d-4014-9967-556888723505",
     "date": "2026-03-29",
-    "name": "XI^ Savona Half Marathon",
-    "location": "Savona (SV)",
+    "name": "II^ Half Marathon \"Memorial Enzo Ferrari\"",
+    "location": "Maranello (MO)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "b83b51ae-b7b5-4a9c-925a-ba0b7d8dcae7",
+    "id": "98eff76f-743f-4233-b181-903df899044f",
     "date": "2026-03-29",
     "name": "XXXIV^ Mezza Maratona di Latina",
     "location": "Latina (LT)",
@@ -630,43 +603,34 @@
     "isInternational": false
   },
   {
-    "id": "b6d75fd8-0ea9-4364-8e6e-f306483e0900",
-    "date": "2026-04-12",
-    "name": "II^ Mezza Maratona del Sulcis/Cammino Minerario di Santa Barbara",
-    "location": "Santadi (CI)",
+    "id": "5419c8fa-fe85-4e0e-910c-61378b9fbdc5",
+    "date": "2026-03-29",
+    "name": "XI^ Savona Half Marathon",
+    "location": "Savona (SV)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "003481f5-2126-49a2-8355-9c8b52b6dc16",
-    "date": "2026-04-12",
-    "name": "XXVI^ Mezza Maratona dei Fiori",
-    "location": "San Benedetto Del Tronto (AP)",
+    "id": "d6f42a51-f0b3-4487-8b45-34642f76a984",
+    "date": "2026-03-29",
+    "name": "XXII^ Mezza Maratona della Concordia Citta' di Agrigento",
+    "location": "Agrigento (AG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "416b85cf-4a8b-4182-9934-d7effbfabc3e",
-    "date": "2026-04-12",
-    "name": "IV^ ScoglittiRace IV Half Marathon Trofeo Pescamare",
-    "location": "Vittoria (RG)",
+    "id": "010dbbf7-2b2b-4df2-99b6-018ac6edb5f0",
+    "date": "2026-03-29",
+    "name": "Annullata - I^ Valle dell'Agno Half Marathon",
+    "location": "Trissino (VI)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "392d6bf3-8cd8-4288-a9e2-1fc61a1a922c",
-    "date": "2026-04-12",
-    "name": "I^ Mezza Maratona del Sulcis/Cammino Minerario di Santa Barbara (km 10)",
-    "location": "Santadi (CI)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "03becff9-0bdd-4e2c-9a71-acdbbee207ed",
+    "id": "a807c678-33d6-4a64-831a-c603d86769f6",
     "date": "2026-04-12",
     "name": "V^ Lake Garda 42 (21,0975 km)",
     "location": "Arco (TN)",
@@ -675,43 +639,25 @@
     "isInternational": false
   },
   {
-    "id": "4e913952-80f2-49e5-882c-0506891285ab",
+    "id": "8cf06ec3-726b-438f-8416-dfd1c3648c0c",
     "date": "2026-04-12",
-    "name": "XXV^ Agropoli Paestum Half Marathon",
-    "location": "Agropoli (SA)",
+    "name": "IV^ ScoglittiRace IV Half Marathon Trofeo Pescamare",
+    "location": "Vittoria (RG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "28cbf9aa-24de-46ed-a07b-ee3ef4362f75",
+    "id": "505e5a8c-b86c-4543-b5b6-39e8b4cb7edd",
     "date": "2026-04-12",
-    "name": "V^ Lake Garda 42",
-    "location": "Limone Sul Garda (BS)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "509cac57-b5dc-4654-b684-62e842b20264",
-    "date": "2026-04-12",
-    "name": "XLVIII^ Maratona del Lamone",
-    "location": "Russi (RA)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "72a12108-3e66-4fa0-a027-c20b9163c972",
-    "date": "2026-04-12",
-    "name": "XXVII^ Mezza Due Laghi - 10 km",
-    "location": "Gravellona Toce (VB)",
+    "name": "II^ Mezza Maratona del Sulcis/Cammino Minerario di Santa Barbara",
+    "location": "Santadi (CI)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "639817cb-27a4-4abf-a521-89cc44dca8ff",
+    "id": "f1c66c59-93a6-4d39-a5a2-d905e697dd13",
     "date": "2026-04-12",
     "name": "XXIV^ Wizz Air Milano Marathon",
     "location": "Milano (MI)",
@@ -720,7 +666,43 @@
     "isInternational": false
   },
   {
-    "id": "7c8f3233-2956-4a6a-95ba-faa8d3f3da2c",
+    "id": "d945fdc1-4ba8-4a53-a410-e11a14de683e",
+    "date": "2026-04-12",
+    "name": "XXVII^ Mezza Due Laghi - 10 km",
+    "location": "Gravellona Toce (VB)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "011d05b5-032f-42d8-aa3b-fe6dcfc246bb",
+    "date": "2026-04-12",
+    "name": "XXVI^ Mezza Maratona dei Fiori",
+    "location": "San Benedetto Del Tronto (AP)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "03bec3b9-256d-4160-bb59-8459b6b44d28",
+    "date": "2026-04-12",
+    "name": "I^ Mezza Maratona del Sulcis/Cammino Minerario di Santa Barbara (km 10)",
+    "location": "Santadi (CI)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "8f3bbe7c-9068-4c0e-82fa-2106310e7256",
+    "date": "2026-04-12",
+    "name": "V^ Lake Garda 42",
+    "location": "Limone Sul Garda (BS)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "dee26122-a366-495f-8133-e28dd4c90dcf",
     "date": "2026-04-12",
     "name": "XXVII^ Mezza Due Laghi - Mezza Maratona",
     "location": "Gravellona Toce (VB)",
@@ -729,52 +711,25 @@
     "isInternational": false
   },
   {
-    "id": "4a789364-b7ad-4700-9eb3-ceec4d239b09",
-    "date": "2026-04-19",
-    "name": "XI^ La Mezza di Torino",
-    "location": "Torino (TO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "24e3115f-67d4-4c67-b29e-439159de915b",
-    "date": "2026-04-19",
-    "name": "II^ Mezza Maratona delle due Province Reverse - Siracusa Ragusa",
-    "location": "Rosolini (SR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "e8b1fc63-7006-482d-a5a7-0cf5d1d2334b",
-    "date": "2026-04-19",
-    "name": "XI^ Rimini Marathon",
-    "location": "Rimini (RN)",
+    "id": "d866fda3-0834-4e8e-9a75-346ef3704fb2",
+    "date": "2026-04-12",
+    "name": "XLVIII^ Maratona del Lamone",
+    "location": "Russi (RA)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "eae4f54d-010f-4042-bb9a-17e33678d4c5",
-    "date": "2026-04-19",
-    "name": "IV^ Rimini Half Marathon",
-    "location": "Rimini (RN)",
+    "id": "ad7259c5-e126-4ba3-a29c-8c50c606d72b",
+    "date": "2026-04-12",
+    "name": "XXV^ Agropoli Paestum Half Marathon",
+    "location": "Agropoli (SA)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "fc3ea562-ca52-48f7-b803-ac3502c3667d",
-    "date": "2026-04-19",
-    "name": "XXXVI^ Maratonina Citta' di Prato - Prato Half Marathon",
-    "location": "Prato (PO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "07355235-1948-45fb-bffb-f5822da730ae",
+    "id": "0c2bc6ea-067f-48f5-a4fa-3d61a875e58a",
     "date": "2026-04-19",
     "name": "CAMPIONATO ITALIANO INDIVIDUALE ASSOLUTO DI MARATONA",
     "location": "Rimini (RN)",
@@ -783,7 +738,34 @@
     "isInternational": false
   },
   {
-    "id": "6e28735a-beeb-4a34-84a1-107b63ba5888",
+    "id": "5a01091d-3f0c-4d1e-b193-a841f24b1046",
+    "date": "2026-04-19",
+    "name": "IV^ Rimini Half Marathon",
+    "location": "Rimini (RN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1fbaaa81-cff6-4d2f-b55c-666c712670bb",
+    "date": "2026-04-19",
+    "name": "XXXVI^ Maratonina Citta' di Prato - Prato Half Marathon",
+    "location": "Prato (PO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c6d7d853-7df9-47bb-94ac-a716acda1724",
+    "date": "2026-04-19",
+    "name": "II^ Mezza Maratona delle due Province Reverse - Siracusa Ragusa",
+    "location": "Rosolini (SR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c2a84ad5-7a44-415f-8b5b-c1966b7cdf1b",
     "date": "2026-04-19",
     "name": "XX^ Mezza Maratona Int.le di Genova",
     "location": "Genova (GE)",
@@ -792,34 +774,25 @@
     "isInternational": false
   },
   {
-    "id": "015aabf2-4313-4033-96bf-b2e24f16dba6",
-    "date": "2026-04-26",
-    "name": "I^ Mezza Maratona \"Terre a Levante\"",
-    "location": "Andrano (LE)",
+    "id": "7e1919d4-1587-4872-a191-5cce9d93378a",
+    "date": "2026-04-19",
+    "name": "XI^ Rimini Marathon",
+    "location": "Rimini (RN)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "fb3dd5d3-8481-4c9b-9d14-506225188bdd",
+    "date": "2026-04-19",
+    "name": "XI^ La Mezza di Torino",
+    "location": "Torino (TO)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "bd7db4eb-ae7d-479f-b0ec-e4191d5171e4",
-    "date": "2026-04-26",
-    "name": "XII^ Corri Con Gioia",
-    "location": "Gioia Del Colle (BA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3d24ce01-50c1-4aec-b32a-071415f1b21f",
-    "date": "2026-04-26",
-    "name": "XI^ Sigel Marsala HalfMarathon - Citta' Garibaldina",
-    "location": "Marsala (TP)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "c9687491-f0f2-497d-9883-a6b8f187632c",
+    "id": "7391ebe2-b14b-48ca-b03a-dc55fcc5d9e4",
     "date": "2026-04-26",
     "name": "II^ Sigel Marsala Marathon - Citta' Garibaldina",
     "location": "Marsala (TP)",
@@ -828,7 +801,7 @@
     "isInternational": false
   },
   {
-    "id": "0c246ffc-e5f3-46ad-86bb-c2f642bb1ffa",
+    "id": "e1b02665-0c6c-4e98-b72e-ef9589637d23",
     "date": "2026-04-26",
     "name": "VII^ EcoRun Varese 21100 Half Marathon",
     "location": "Varese (VA)",
@@ -837,7 +810,25 @@
     "isInternational": false
   },
   {
-    "id": "fff498fd-88db-454c-b92f-5c69065aeb40",
+    "id": "9afbee4c-cea7-452a-b87e-80ecbdc76576",
+    "date": "2026-04-26",
+    "name": "I^ Mezza Maratona \"Terre a Levante\"",
+    "location": "Andrano (LE)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "fe6ba5de-e6db-4635-87a5-c91138814960",
+    "date": "2026-04-26",
+    "name": "XI^ Sigel Marsala HalfMarathon - Citta' Garibaldina",
+    "location": "Marsala (TP)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "79e5fbce-d56c-4385-b90f-3eccd245f62f",
     "date": "2026-04-26",
     "name": "XXVI^ Padova Marathon",
     "location": "Padova (PD)",
@@ -846,16 +837,7 @@
     "isInternational": false
   },
   {
-    "id": "2e5725a5-e8f3-4b82-9f0d-7f9d3ce5ecda",
-    "date": "2026-04-26",
-    "name": "XIV^ Conero Running",
-    "location": "Numana (AN)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0c3cadc9-c36b-46ab-a7f1-2db9e0398d1a",
+    "id": "4e7634fe-21e1-478f-9f19-e68ba2da7f76",
     "date": "2026-04-26",
     "name": "XVII^ Padova Half Marathon",
     "location": "Padova (PD)",
@@ -864,7 +846,25 @@
     "isInternational": false
   },
   {
-    "id": "a27e3a81-c6d0-460d-a2a0-650f9878ef31",
+    "id": "26619d73-7260-4fb2-951b-2f8489418540",
+    "date": "2026-04-26",
+    "name": "XII^ Corri Con Gioia",
+    "location": "Gioia Del Colle (BA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "922b2b53-176f-4878-9837-c069881b8b51",
+    "date": "2026-04-26",
+    "name": "XIV^ Conero Running",
+    "location": "Numana (AN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "e14e2718-878b-4764-86af-63c4a5576b51",
     "date": "2026-05-01",
     "name": "II^ Maratona di Riso Italiano Half",
     "location": "Santhià (VC)",
@@ -873,7 +873,7 @@
     "isInternational": false
   },
   {
-    "id": "d1953cc6-d501-4afb-9cd9-a335dadb3afb",
+    "id": "5c57beae-63ce-4f34-919a-288716f1be1b",
     "date": "2026-05-01",
     "name": "II^ Maratona di Riso Italiano (10km)",
     "location": "Santhià (VC)",
@@ -882,7 +882,7 @@
     "isInternational": false
   },
   {
-    "id": "056cba84-284f-4342-8342-38861351e769",
+    "id": "51246418-7fa9-44c1-a651-a4125af3f779",
     "date": "2026-05-01",
     "name": "II^ Maratona di Riso Italiano",
     "location": "Santhià (VC)",
@@ -891,88 +891,7 @@
     "isInternational": false
   },
   {
-    "id": "6725af7e-7c38-4afe-97af-0e3cf4fb1ee6",
-    "date": "2026-05-03",
-    "name": "III^ Olbia21K Straolbia 36",
-    "location": "Olbia (OT)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "4451d7d9-9388-4fd2-a9ed-c33b411aa765",
-    "date": "2026-05-03",
-    "name": "XXX^ Trieste 21K",
-    "location": "Trieste (TS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0730414c-5d4b-47f4-80cb-dd72905ea972",
-    "date": "2026-05-03",
-    "name": "LIII^ Stramilano Half Marathon",
-    "location": "Milano (MI)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "24421410-d458-44a7-a3b7-f0c240c25b3e",
-    "date": "2026-05-03",
-    "name": "XXII^ ColleMar-athon",
-    "location": "Terre Roveresche PU",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3c48696f-f579-4425-987c-242020dcae12",
-    "date": "2026-05-03",
-    "name": "V^ Med Marathon",
-    "location": "Bari (BA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "3dd5db38-0571-4f8c-a5ed-a78e850b1fc9",
-    "date": "2026-05-03",
-    "name": "VII^ Half ColleMar-athon",
-    "location": "Terre Roveresche PU",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "2e27b725-9454-477f-87b9-fd1cf8a55389",
-    "date": "2026-05-03",
-    "name": "VI^ Mezza del Santo",
-    "location": "San Giovanni Rotondo (FG)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "f67c3a60-7563-4371-9820-5603d4a54a6a",
-    "date": "2026-05-03",
-    "name": "XXV^ Maratonina Citta' di Terrasini",
-    "location": "Terrasini (PA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "a4cf0b3b-3c69-46b3-99b6-01f3662f70e5",
-    "date": "2026-05-03",
-    "name": "XII^ Lucca Half Marathon",
-    "location": "Lucca (LU)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "a6402d98-c3e7-48e1-a0c6-e7485aeae667",
+    "id": "4a6fc6e7-c3ce-452c-b403-81a060c984f9",
     "date": "2026-05-03",
     "name": "XV^ Trieste 42K",
     "location": "Trieste (TS)",
@@ -981,7 +900,88 @@
     "isInternational": false
   },
   {
-    "id": "7c8ba721-fac7-4a1c-8552-6bcae06b726f",
+    "id": "60a11605-fa1f-402a-b214-47b30163c27e",
+    "date": "2026-05-03",
+    "name": "XII^ Lucca Half Marathon",
+    "location": "Lucca (LU)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c4783694-6c3e-46a0-bd46-b5b9900acfd2",
+    "date": "2026-05-03",
+    "name": "XXX^ Trieste 21K",
+    "location": "Trieste (TS)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a2dd8f24-110f-4e45-bf72-5386aabed3a0",
+    "date": "2026-05-03",
+    "name": "VI^ Mezza del Santo",
+    "location": "San Giovanni Rotondo (FG)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1b7d3d26-0b52-4e8f-ba02-34256939bb7b",
+    "date": "2026-05-03",
+    "name": "XXV^ Maratonina Citta' di Terrasini",
+    "location": "Terrasini (PA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "149c80e8-1253-4935-8d5f-1428648b721f",
+    "date": "2026-05-03",
+    "name": "V^ Med Marathon",
+    "location": "Bari (BA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3059670c-5692-46ad-90ba-60d53b26f856",
+    "date": "2026-05-03",
+    "name": "VII^ Half ColleMar-athon",
+    "location": "Terre Roveresche PU",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a8869220-a7f4-45e1-8abc-9ff9a147dfe1",
+    "date": "2026-05-03",
+    "name": "III^ Olbia21K Straolbia 36",
+    "location": "Olbia (OT)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1ac601ce-ab42-4a65-84e5-cd1c25b5f6ab",
+    "date": "2026-05-03",
+    "name": "LIII^ Stramilano Half Marathon",
+    "location": "Milano (MI)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "cb9e278d-a3ac-4c88-a31c-b2e2f159c2c8",
+    "date": "2026-05-03",
+    "name": "XXII^ ColleMar-athon",
+    "location": "Terre Roveresche PU",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3678645b-3457-489c-ba34-2b87196f1da4",
     "date": "2026-05-09",
     "name": "V^ Comacchio Half Marathon",
     "location": "Comacchio (FE)",
@@ -990,7 +990,7 @@
     "isInternational": false
   },
   {
-    "id": "7ca1ddff-28eb-4e02-803e-bbc39c57bf46",
+    "id": "01251537-2ae2-44f1-9cea-b3fdde6d0f72",
     "date": "2026-05-10",
     "name": "X^ Bibione Half Marathon",
     "location": "Bibione VE",
@@ -999,7 +999,7 @@
     "isInternational": false
   },
   {
-    "id": "d4102794-84ef-4338-8e9e-9f9a6e0a0912",
+    "id": "f2acda8a-44aa-4462-9369-e999b078e66b",
     "date": "2026-05-10",
     "name": "XXIX^ Placentia Half Marathon",
     "location": "Piacenza (PC)",
@@ -1008,16 +1008,7 @@
     "isInternational": false
   },
   {
-    "id": "afe5870f-62ab-4256-9993-c15a057eb3a5",
-    "date": "2026-05-16",
-    "name": "XV^ Jesolo Moonlight Half Marathon",
-    "location": "Jesolo (VE)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "994f8bfc-6553-46c6-8d8a-4bfd8d8f71e3",
+    "id": "cd0ae5da-14f2-4e88-99ae-9f4c02d4bf83",
     "date": "2026-05-16",
     "name": "XV^ Mezza Maratona Capo d'Orlando",
     "location": "Capo D'orlando (ME)",
@@ -1026,7 +1017,16 @@
     "isInternational": false
   },
   {
-    "id": "c244b7b3-63fd-4452-ae20-590cd1213a61",
+    "id": "a3ff2e19-3916-454b-8bb3-d532891600be",
+    "date": "2026-05-16",
+    "name": "XV^ Jesolo Moonlight Half Marathon",
+    "location": "Jesolo (VE)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1677cfcf-e592-45c0-9c88-5ade89a76bc5",
     "date": "2026-05-17",
     "name": "XI^ Maratonina del Mare - Pescara Half Marathon",
     "location": "Pescara (PE)",
@@ -1035,16 +1035,7 @@
     "isInternational": false
   },
   {
-    "id": "623f9999-af6b-4f3a-8412-bc1c0694a857",
-    "date": "2026-05-17",
-    "name": "III^ Straforlì Run in the City",
-    "location": "Forlì (FC)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "4c092337-3f32-4490-b7ca-56d2c98c7daa",
+    "id": "c46cae13-417e-4a66-a966-a0dc15e230bb",
     "date": "2026-05-17",
     "name": "VIII^ Omphalos Half-Marathon",
     "location": "Mondolfo (PU)",
@@ -1053,7 +1044,7 @@
     "isInternational": false
   },
   {
-    "id": "0fe65b4b-7f29-4c18-a870-e1adc35b7cd3",
+    "id": "cbcee046-b2c4-4171-9747-e4f34dcabefd",
     "date": "2026-05-17",
     "name": "XXIX^ Mezza Maratona del Naviglio",
     "location": "Cernusco Sul Naviglio (MI)",
@@ -1062,7 +1053,16 @@
     "isInternational": false
   },
   {
-    "id": "9e3438e9-1001-48ef-ae49-a85d91adb457",
+    "id": "b3f1d76a-dcc4-41e9-89e6-9ae6db2bd9fc",
+    "date": "2026-05-17",
+    "name": "III^ Straforlì Run in the City",
+    "location": "Forlì (FC)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3c0a53fb-9d8e-4635-983b-5a72661551f3",
     "date": "2026-05-30",
     "name": "VII^ Maratonina dei Laghi",
     "location": "Bellaria-igea Marina (RN)",
@@ -1071,7 +1071,7 @@
     "isInternational": false
   },
   {
-    "id": "97a4ed10-6df8-411b-bac4-e023c6dbafa4",
+    "id": "6a3b0910-4f99-4481-8ee0-87a286e9ddc5",
     "date": "2026-05-31",
     "name": "XII^ Mezza Maratona di Ostuni",
     "location": "Ostuni (BR)",
@@ -1080,16 +1080,7 @@
     "isInternational": false
   },
   {
-    "id": "0626047a-6285-4da5-8790-642540f6f7ac",
-    "date": "2026-05-31",
-    "name": "Annullata - IV^ Aosta 21K Half Marathon",
-    "location": "Aosta (AO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "df8c83b0-d1c7-4fe2-80c9-1d5af0f48953",
+    "id": "4c0a4253-bd92-4673-a51a-6519b8409cd8",
     "date": "2026-05-31",
     "name": "III^ Mezza Maratona della Memoria",
     "location": "Palermo (PA)",
@@ -1098,7 +1089,16 @@
     "isInternational": false
   },
   {
-    "id": "d28c2025-b4dc-4548-a43b-1c8cb4a25aac",
+    "id": "25f04299-16c9-43c8-8d87-8a12ff615fd1",
+    "date": "2026-05-31",
+    "name": "Annullata - IV^ Aosta 21K Half Marathon",
+    "location": "Aosta (AO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "30ab4975-ce96-469e-93bf-524b052518d1",
     "date": "2026-06-02",
     "name": "II^ Lago d'Iseo Half Marathon",
     "location": "Pisogne (BS)",
@@ -1107,7 +1107,7 @@
     "isInternational": false
   },
   {
-    "id": "fb7fccb4-e1ee-4a17-b873-29f605b7e5f2",
+    "id": "7d04000a-006e-4f3b-9837-f966753a8750",
     "date": "2026-06-07",
     "name": "II^ Maratonina Partanna - Selinunte. Dal Castello Grifeo al Tempio di Hera",
     "location": "Partanna (TP)",
@@ -1116,7 +1116,7 @@
     "isInternational": false
   },
   {
-    "id": "d8e8c7b0-bbfc-46db-b4d8-88c59782e003",
+    "id": "ec5afaae-a814-485a-b02d-14f7abce6601",
     "date": "2026-06-20",
     "name": "X^ Run For The Whale",
     "location": "Sanremo (IM)",
@@ -1125,7 +1125,7 @@
     "isInternational": false
   },
   {
-    "id": "c15b20fc-ebeb-4942-8029-742b328bf10f",
+    "id": "e1347a35-7504-41db-b524-b8ca76e1ee9e",
     "date": "2026-06-26",
     "name": "II^ Run the Night \"Karhu x CDF\"",
     "location": "Cuneo (CN)",
@@ -1134,25 +1134,7 @@
     "isInternational": false
   },
   {
-    "id": "8faefd5b-7f9c-4696-9dcb-ee602e6c4569",
-    "date": "2026-09-13",
-    "name": "VI^ Dolomitica Run Half Marathon Val Rendena",
-    "location": "Pinzolo (TN)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "17a16765-ab90-47ee-a4af-3ccc4514ef90",
-    "date": "2026-09-13",
-    "name": "XV^ Mezza Maratona Alzheimer 2026",
-    "location": "Cesenatico (FC)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "82d51ed5-5f87-4db4-a010-48413946d44b",
+    "id": "fca837a9-71cf-489f-9dbb-7e3a60360d9e",
     "date": "2026-09-13",
     "name": "V^ Guastalla Half Marathon",
     "location": "Guastalla (RE)",
@@ -1161,7 +1143,16 @@
     "isInternational": false
   },
   {
-    "id": "69242413-20f8-46ec-aed1-55d1ab4b8c32",
+    "id": "fcce3428-0ead-444c-a6a3-0f5e24820918",
+    "date": "2026-09-13",
+    "name": "VI^ Dolomitica Run Half Marathon Val Rendena",
+    "location": "Pinzolo (TN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "e0acec8e-c5f6-4ecd-a33a-b566bf99bcf3",
     "date": "2026-09-13",
     "name": "XXVIII^ Parma Mezza Maratona",
     "location": "Parma (PR)",
@@ -1170,7 +1161,16 @@
     "isInternational": false
   },
   {
-    "id": "a54a59d7-cb06-4829-9c2d-815bfaececc9",
+    "id": "e69728a9-155c-4065-bacd-f3bb490fcc9e",
+    "date": "2026-09-13",
+    "name": "XV^ Mezza Maratona Alzheimer 2026",
+    "location": "Cesenatico (FC)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "d1fead65-3dcf-49ef-be4a-055c223e60cd",
     "date": "2026-09-20",
     "name": "I^ Maratonina di Cremona",
     "location": "Cremona (CR)",
@@ -1179,34 +1179,7 @@
     "isInternational": false
   },
   {
-    "id": "6ed89e3c-5791-43df-949b-fe21e2f9f1d9",
-    "date": "2026-09-20",
-    "name": "XVIII^ M6C 21KM",
-    "location": "Villaverla (VI)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "af100cf3-008e-4f10-8a55-7a22e8d957b2",
-    "date": "2026-09-20",
-    "name": "IV^ Half Marathon Licata Citta' Di Mare",
-    "location": "Licata (AG)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "892965f0-6514-47f5-89eb-1c1d5f283fac",
-    "date": "2026-09-20",
-    "name": "XXVI^ Maratonina Citta' di Udine",
-    "location": "Udine (UD)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "bc4748e7-e43b-48b0-b436-90777180659c",
+    "id": "63dc7bda-0093-4f16-a5f1-4b01aabaf40b",
     "date": "2026-09-20",
     "name": "XLIII^ Mezza Maratona del Piceno Fermano",
     "location": "Porto San Giorgio (FM)",
@@ -1215,43 +1188,34 @@
     "isInternational": false
   },
   {
-    "id": "62768acc-b460-433c-b915-6265623a0102",
-    "date": "2026-09-27",
-    "name": "XXXI^ Mantova Half Marathon",
-    "location": "Mantova (MN)",
+    "id": "da297d08-2592-4853-bb87-355ac5556c5d",
+    "date": "2026-09-20",
+    "name": "XXVI^ Maratonina Citta' di Udine",
+    "location": "Udine (UD)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "a0b354de-965e-4d01-9207-793b94f86c3d",
-    "date": "2026-09-27",
-    "name": "XVII^ Pantano Half Marathon",
-    "location": "Pignola (PZ)",
+    "id": "6848fc10-4127-4fee-bbb5-168ea56d0c36",
+    "date": "2026-09-20",
+    "name": "XVIII^ M6C 21KM",
+    "location": "Villaverla (VI)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "1bb9ae42-ded3-494b-ad77-fab99cbcefd4",
-    "date": "2026-09-27",
-    "name": "II^ Viterbo Half Marathon - Citta' dei Papi",
-    "location": "Viterbo (VT)",
+    "id": "cf07e855-3f56-4de9-bcdc-1b15f26ade5a",
+    "date": "2026-09-20",
+    "name": "IV^ Half Marathon Licata Citta' Di Mare",
+    "location": "Licata (AG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "5c68ff2d-c868-4d83-a5f9-26c2045fa59e",
-    "date": "2026-09-27",
-    "name": "LII^ Maratona del Mugello",
-    "location": "Borgo San Lorenzo (FI)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "2d7f72a9-81d3-4550-82f3-a2ae785e347c",
+    "id": "dacbc249-0e63-4aae-a7dd-95bf8851d51e",
     "date": "2026-09-27",
     "name": "XVIII^ Agnolotto Half Marathon Fontaneto",
     "location": "Novara (NO)",
@@ -1260,34 +1224,16 @@
     "isInternational": false
   },
   {
-    "id": "67d4efa4-17c1-44a3-bada-f29196321b35",
+    "id": "39c40f8d-6488-4c9c-aeba-6e65a044e30e",
     "date": "2026-09-27",
-    "name": "XV^ Trento Half Marathon",
-    "location": "Trento (TN)",
+    "name": "XXXI^ Mantova Half Marathon",
+    "location": "Mantova (MN)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "45fd9d35-58c8-4606-b1d7-0161d444d741",
-    "date": "2026-09-27",
-    "name": "IX^ Alghero Half Marathon",
-    "location": "Alghero (SS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "9b7ac312-75e2-46af-9ef5-6717c9702dac",
-    "date": "2026-09-27",
-    "name": "Annullata - XX^ Maratonina Int.le dei Borghi Citta' di Pordenone 2026",
-    "location": "Pordenone (PN)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "fd2ceaf3-0d22-4dae-bd13-f40e5c744a95",
+    "id": "79bec758-bb52-4390-9db2-758dc9e8d866",
     "date": "2026-09-27",
     "name": "IV^ River Run Valtellina Half Marathon",
     "location": "Sondrio (SO)",
@@ -1296,16 +1242,61 @@
     "isInternational": false
   },
   {
-    "id": "3cc4acb3-6797-4122-9ee7-29c3513514db",
-    "date": "2026-10-04",
-    "name": "III^ Overborders Half Marathon Lignano Sabbiadoro - Bibione",
-    "location": "Lignano Sabbiadoro (UD)",
+    "id": "fcba82d5-f3f2-4dfc-8c48-237297a0e6c1",
+    "date": "2026-09-27",
+    "name": "XVII^ Pantano Half Marathon",
+    "location": "Pignola (PZ)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "3f55dbf4-85fd-4d05-8c7c-4552330370be",
+    "id": "8edabe1f-caca-4c32-8b5f-af48c0f44a94",
+    "date": "2026-09-27",
+    "name": "XV^ Trento Half Marathon",
+    "location": "Trento (TN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "d91c3313-cfa8-45f3-a42f-434a285cded7",
+    "date": "2026-09-27",
+    "name": "II^ Viterbo Half Marathon - Citta' dei Papi",
+    "location": "Viterbo (VT)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "642390bb-27de-46bf-9277-9f983813fbf3",
+    "date": "2026-09-27",
+    "name": "IX^ Alghero Half Marathon",
+    "location": "Alghero (SS)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "e25bb285-0fa5-4f43-a5e4-7b64a7eb2900",
+    "date": "2026-09-27",
+    "name": "Annullata - XX^ Maratonina Int.le dei Borghi Citta' di Pordenone 2026",
+    "location": "Pordenone (PN)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "f3e275c0-8ca7-45be-a6c1-40c98ea568d8",
+    "date": "2026-09-27",
+    "name": "LII^ Maratona del Mugello",
+    "location": "Borgo San Lorenzo (FI)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a69140d1-5c8c-4730-8283-c54ed16bab43",
     "date": "2026-10-04",
     "name": "II^ Halfmarathon Empoli",
     "location": "Empoli (FI)",
@@ -1314,7 +1305,7 @@
     "isInternational": false
   },
   {
-    "id": "73d19989-2115-4a2b-b24c-473c542312eb",
+    "id": "59f6320c-27d8-4c4a-9187-663ab0c9ca4e",
     "date": "2026-10-04",
     "name": "XI^ Andersenrun La Mezza tra le Baie",
     "location": "Sestri Levante (GE)",
@@ -1323,43 +1314,16 @@
     "isInternational": false
   },
   {
-    "id": "4c12ee44-ffc3-4948-a191-79c7b5b93c1a",
+    "id": "7a2b0f0f-4d8b-4ef7-a58f-cea1638869cb",
     "date": "2026-10-04",
-    "name": "XI^ Telesia Half Marathon - Telesia 21K",
-    "location": "Telese Terme (BN)",
+    "name": "III^ Overborders Half Marathon Lignano Sabbiadoro - Bibione",
+    "location": "Lignano Sabbiadoro (UD)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "27fa968c-767a-46db-af4a-8f84eb27df91",
-    "date": "2026-10-04",
-    "name": "XX^ Monza21",
-    "location": "Monza (MB)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "8d9f305d-3666-4d0d-93e8-b42528ecb4e1",
-    "date": "2026-10-04",
-    "name": "IV^ Tin Bota Romagna Half Marathon",
-    "location": "Forlì (FC)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "bdf81cd9-99a4-45e4-8011-1b37148f7640",
-    "date": "2026-10-04",
-    "name": "VIII^ Half Marathon Perla del Tirreno",
-    "location": "Cefalu' PA",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "55e74658-61de-47e0-bd17-b140a19f44c5",
+    "id": "8babb55d-3182-47e8-bf1b-64cce8231525",
     "date": "2026-10-04",
     "name": "II^ 10K Marathon Empoli",
     "location": "Empoli (FI)",
@@ -1368,52 +1332,43 @@
     "isInternational": false
   },
   {
-    "id": "bfaaf2c1-cff2-44cf-856f-72d825530df0",
-    "date": "2026-10-11",
-    "name": "II^ Maratona Reale",
-    "location": "Venaria Reale (TO)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "5d4d270a-b8a5-49a6-ab00-5934e9dd1c08",
-    "date": "2026-10-11",
-    "name": "XVI^ Tranincorsa",
-    "location": "Trani (BT)",
+    "id": "0ec96efd-1ccb-4dd6-98b7-225801f910d9",
+    "date": "2026-10-04",
+    "name": "IV^ Tin Bota Romagna Half Marathon",
+    "location": "Forlì (FC)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "a52c935d-d533-4953-8855-8064e1b4fca7",
-    "date": "2026-10-11",
-    "name": "XII^ La Mezza di Treviso",
-    "location": "Treviso (TV)",
+    "id": "30952f96-274a-400f-a3bd-f5d4a028e4dd",
+    "date": "2026-10-04",
+    "name": "XI^ Telesia Half Marathon - Telesia 21K",
+    "location": "Telese Terme (BN)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "2f7b9857-4cc8-4301-9869-e0bc3fe80cd0",
-    "date": "2026-10-11",
-    "name": "XIV^ Una Corsa da Re 21km",
-    "location": "Venaria Reale (TO)",
+    "id": "a92cacc0-9764-4cc8-a6f2-ef6af1467a6f",
+    "date": "2026-10-04",
+    "name": "XX^ Monza21",
+    "location": "Monza (MB)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "7e576b8f-3f0a-4a25-b876-7d56852d9de7",
-    "date": "2026-10-11",
-    "name": "XVII^ GO&GO Half Marathon - Maratonina Transfrontaliera Citta' di Gorizia",
-    "location": "Gorizia (GO)",
+    "id": "f6123f3c-6700-4099-9182-3385c90ff929",
+    "date": "2026-10-04",
+    "name": "VIII^ Half Marathon Perla del Tirreno",
+    "location": "Cefalu' PA",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "22253b45-97f3-4ebb-b4ef-be7357aca3bf",
+    "id": "04c1a0fc-ae8b-4d10-980a-1836cb3c77ed",
     "date": "2026-10-11",
     "name": "XX^ Pisa Half Marathon",
     "location": "Pisa (PI)",
@@ -1422,7 +1377,7 @@
     "isInternational": false
   },
   {
-    "id": "8aa9f982-e735-4011-b7a8-eebc5f29ed3b",
+    "id": "a3996d6e-3aa1-4de5-9f8f-a3a5723ed84c",
     "date": "2026-10-11",
     "name": "Annullata - XXXIX^ Happy Run In PSE (km 21,0975)",
     "location": "Porto Sant'elpidio (FM)",
@@ -1431,7 +1386,25 @@
     "isInternational": false
   },
   {
-    "id": "72c57bf2-6fd5-4943-8f0b-59a538b2b28f",
+    "id": "f3c0cb14-9ca0-4542-ac11-8a354257bb9a",
+    "date": "2026-10-11",
+    "name": "XVII^ GO&GO Half Marathon - Maratonina Transfrontaliera Citta' di Gorizia",
+    "location": "Gorizia (GO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "44ae702f-7ec7-4539-8205-43ea69223107",
+    "date": "2026-10-11",
+    "name": "XII^ La Mezza di Treviso",
+    "location": "Treviso (TV)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3373baae-63eb-4118-99c2-5389682ddb93",
     "date": "2026-10-11",
     "name": "CAMPIONATI MONDIALI MASTER DI MARATONA",
     "location": "Zagabria --",
@@ -1440,16 +1413,7 @@
     "isInternational": true
   },
   {
-    "id": "1b8ea9ba-432a-40da-9a11-d00e0eb1f365",
-    "date": "2026-10-11",
-    "name": "XIII^ Io21Zero97 - La Bella Corsa di Walter",
-    "location": "Darfo Boario Terme (BS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0d840a32-352f-41ae-827f-92d08427cc44",
+    "id": "55e9acb7-369d-4287-9aee-4d6ceeab4dd7",
     "date": "2026-10-11",
     "name": "Annullata - I^ La Mezza dello Stretto",
     "location": "Messina (ME)",
@@ -1458,7 +1422,25 @@
     "isInternational": false
   },
   {
-    "id": "d60e536a-07ba-4a0e-b300-bb40ff78953b",
+    "id": "ab2f1355-6b61-476d-bf7e-ea4389c44390",
+    "date": "2026-10-11",
+    "name": "XIV^ Una Corsa da Re 21km",
+    "location": "Venaria Reale (TO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "93da4d3b-2bdc-4a85-901a-e4f5e7383157",
+    "date": "2026-10-11",
+    "name": "II^ Maratona Reale",
+    "location": "Venaria Reale (TO)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "5ee9d164-8c74-430b-88f5-045da9045006",
     "date": "2026-10-11",
     "name": "XXII^ Corripavia Half Marathon",
     "location": "Pavia (PV)",
@@ -1467,61 +1449,25 @@
     "isInternational": false
   },
   {
-    "id": "ab171cbe-f8c2-48bc-9f0e-be7c2b0ddecf",
-    "date": "2026-10-18",
-    "name": "I^ APUANIA - Nessuno Resta Indietro",
-    "location": "Massa (MS)",
+    "id": "571e2960-8190-43c5-a560-f4fe0b20388e",
+    "date": "2026-10-11",
+    "name": "XIII^ Io21Zero97 - La Bella Corsa di Walter",
+    "location": "Darfo Boario Terme (BS)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "f506b061-6925-4035-a7d1-577aff032988",
-    "date": "2026-10-18",
-    "name": "X^ Parma Marathon (km 10)",
-    "location": "Parma (PR)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0f47a9b0-1f50-4e02-b0ce-693462908818",
-    "date": "2026-10-18",
-    "name": "V^ Meda Urban Race",
-    "location": "Meda (MB)",
+    "id": "952dac35-90a9-4c54-ac40-4a4658a66045",
+    "date": "2026-10-11",
+    "name": "XVI^ Tranincorsa",
+    "location": "Trani (BT)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "f722d3fb-f4bb-4f26-9e84-ed29703215f2",
-    "date": "2026-10-18",
-    "name": "XVII^ Mezza Maratona della Ceramica Citta' di Assemini (km 10)",
-    "location": "Assemini (CA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "a63e452b-1d42-4319-9631-b79f28ecf9ea",
-    "date": "2026-10-18",
-    "name": "VI^ Neapolis Marathon",
-    "location": "Napoli (NA)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "47cb7507-91b0-4420-bf11-b9d6eb231e8d",
-    "date": "2026-10-18",
-    "name": "III^ Rome Half Marathon",
-    "location": "Roma RM",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "6aff91af-b652-4838-b2c1-fd9467aa8e95",
+    "id": "7e2b3267-c84b-4751-994b-72dd50afd79d",
     "date": "2026-10-18",
     "name": "XIII^ Palermo International Half Marathon",
     "location": "Palermo (PA)",
@@ -1530,16 +1476,34 @@
     "isInternational": false
   },
   {
-    "id": "5468f7b7-01a3-4961-afc2-1449723b003b",
+    "id": "83147bcc-ca73-464c-8db7-881ab28df8bf",
     "date": "2026-10-18",
-    "name": "Annullata - XXV^ Mezza Maratona di Cremona",
-    "location": "Cremona (CR)",
+    "name": "V^ Meda Urban Race",
+    "location": "Meda (MB)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "c8c60235-b1e2-40c2-b9dc-6525d680fc3a",
+    "id": "201cf353-1438-4b68-9aac-db79e3fd4886",
+    "date": "2026-10-18",
+    "name": "VI^ Neapolis Marathon",
+    "location": "Napoli (NA)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "5d3e9287-4f45-4745-be69-1caf7305442b",
+    "date": "2026-10-18",
+    "name": "XVII^ Mezza Maratona della Ceramica Citta' di Assemini (km 10)",
+    "location": "Assemini (CA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "5cd3a68e-0d54-4897-8bf6-f57c0fc7d3d4",
     "date": "2026-10-18",
     "name": "VI^ Neapolis Half Marathon",
     "location": "Napoli (NA)",
@@ -1548,16 +1512,16 @@
     "isInternational": false
   },
   {
-    "id": "6189513b-168d-431b-b0fe-9d80ea504a0b",
+    "id": "5f0b6726-012d-4979-a9d1-570d4fbe985d",
     "date": "2026-10-18",
-    "name": "X^ Parma Marathon",
+    "name": "X^ Parma Marathon (km 10)",
     "location": "Parma (PR)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "3ffd3e22-cae7-4e63-bf24-d243e1cb0964",
+    "id": "510b26db-3bc3-472c-9366-46377ccaa02f",
     "date": "2026-10-18",
     "name": "XVII^ Mezza Maratona della Ceramica Citta' di Assemini",
     "location": "Assemini (CA)",
@@ -1566,16 +1530,43 @@
     "isInternational": false
   },
   {
-    "id": "9c6d4be3-6a89-46d1-8ac5-41b6d55c0e2d",
-    "date": "2026-10-25",
-    "name": "XIV^ Maratonina Blu Jonio",
-    "location": "Riposto (CT)",
+    "id": "b834d8bf-781b-4d1b-8fd0-8ee34d148d86",
+    "date": "2026-10-18",
+    "name": "X^ Parma Marathon",
+    "location": "Parma (PR)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "51e3c89a-30c6-4035-b9ec-9b796ca6e30c",
+    "date": "2026-10-18",
+    "name": "Annullata - XXV^ Mezza Maratona di Cremona",
+    "location": "Cremona (CR)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "a07a1ff4-8a2c-47fb-88aa-3652c0739642",
+    "id": "857f5789-e615-49ae-a263-3c82ae855718",
+    "date": "2026-10-18",
+    "name": "III^ Rome Half Marathon",
+    "location": "Roma RM",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1016bab6-8518-47d5-b6f9-0b376bc4896c",
+    "date": "2026-10-18",
+    "name": "I^ APUANIA - Nessuno Resta Indietro",
+    "location": "Massa (MS)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "6395cf62-7097-4451-a389-e74dc7d47365",
     "date": "2026-10-25",
     "name": "XI^ Laus Half Marathon",
     "location": "Lodi (LO)",
@@ -1584,34 +1575,7 @@
     "isInternational": false
   },
   {
-    "id": "b6c2ea5c-5585-4947-87b9-747a3724fe6c",
-    "date": "2026-10-25",
-    "name": "Annullata - X^ Mezza Maratona di Ascoli",
-    "location": "Ascoli Piceno (AP)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "6fad3e6c-0757-4a6f-a26b-dc7e494cde50",
-    "date": "2026-10-25",
-    "name": "XI^ Mezza e Dieci che Vale",
-    "location": "Torino (TO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "638d9d7d-17f7-42c0-a597-7cb4f25db084",
-    "date": "2026-10-25",
-    "name": "IV^ Costa dei Trabocchi BCC Half Marathon",
-    "location": "Fossacesia (CH)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "7f011745-4a8f-43d6-a01c-939240eac0e5",
+    "id": "f1b06db0-408d-48f3-807f-3495b97bf15f",
     "date": "2026-10-25",
     "name": "XXXI^ Strasalerno Half Marathon",
     "location": "Salerno (SA)",
@@ -1620,7 +1584,16 @@
     "isInternational": false
   },
   {
-    "id": "96119837-26f8-470c-b631-dbb94c291a96",
+    "id": "80a644a0-0059-41f0-b3d4-7b9c5cb20db8",
+    "date": "2026-10-25",
+    "name": "IV^ Costa dei Trabocchi BCC Half Marathon",
+    "location": "Fossacesia (CH)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c3e43a5b-45d9-4560-b788-7bbf642ebadf",
     "date": "2026-10-25",
     "name": "XL^ Venicemarathon",
     "location": "Venezia (VE)",
@@ -1629,16 +1602,7 @@
     "isInternational": false
   },
   {
-    "id": "6140b52b-399b-4ee9-998c-4719a473cd0e",
-    "date": "2026-10-25",
-    "name": "VI^ Varese City Run",
-    "location": "Varese (VA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "4bf7dba6-4266-444f-8490-ee5d2dc024ab",
+    "id": "3bb28cde-631d-4c1f-9ca2-78eade770cff",
     "date": "2026-10-25",
     "name": "V^ Venice Half Marathon",
     "location": "Venezia (VE)",
@@ -1647,7 +1611,7 @@
     "isInternational": false
   },
   {
-    "id": "08c10d86-0c42-4c56-acf5-bc44d5257bae",
+    "id": "22c8e930-3eb0-48ed-8daf-f23f2a80243f",
     "date": "2026-10-25",
     "name": "XXVII^ Maratonina Citta' di Arezzo",
     "location": "Arezzo (AR)",
@@ -1656,25 +1620,43 @@
     "isInternational": false
   },
   {
-    "id": "e971c06b-4c13-4508-8c62-a4bc5932c6db",
-    "date": "2026-11-01",
-    "name": "XVIII^ Padenghe Half Marathon",
-    "location": "Padenghe Sul Garda (BS)",
+    "id": "7a892f85-7fe3-43a6-875b-4fb60cd7b6aa",
+    "date": "2026-10-25",
+    "name": "Annullata - X^ Mezza Maratona di Ascoli",
+    "location": "Ascoli Piceno (AP)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "f003ad4f-06ac-4e75-85cd-914bb209cdba",
-    "date": "2026-11-01",
-    "name": "XII^ Mezza Maratona \"Citta' di Foligno\"",
-    "location": "Foligno (PG)",
+    "id": "415e6d10-8ae6-4cb5-b3d7-80dd2d9c5653",
+    "date": "2026-10-25",
+    "name": "XIV^ Maratonina Blu Jonio",
+    "location": "Riposto (CT)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "71a7a938-6092-4d5e-a8da-9792d228e1cd",
+    "id": "f095a537-61c2-4673-8551-1bb2c5970b94",
+    "date": "2026-10-25",
+    "name": "VI^ Varese City Run",
+    "location": "Varese (VA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "24b963d7-bed7-42ff-a128-a060ec503b5a",
+    "date": "2026-10-25",
+    "name": "XI^ Mezza e Dieci che Vale",
+    "location": "Torino (TO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a3e3f4d3-8f74-4730-bf82-b1da1d74297b",
     "date": "2026-11-01",
     "name": "III^ Egnazia Half Marathon",
     "location": "Savelletri Di Fasano BR",
@@ -1683,115 +1665,25 @@
     "isInternational": false
   },
   {
-    "id": "2cf018b2-8ded-42a0-9595-29a93ab96078",
-    "date": "2026-11-08",
-    "name": "Annullata - II^ Nuraghes Marathon Sardinia",
-    "location": "Oristano (OR)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "62f76fae-d1bc-441c-b661-8ac5042548b4",
-    "date": "2026-11-08",
-    "name": "XXVII^ Maratona di Ravenna Citta' d'Arte",
-    "location": "Ravenna (RA)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "6623a3b3-3af9-4716-a7e1-ae3561701f2c",
-    "date": "2026-11-08",
-    "name": "XIV^ Ravenna Half Marathon",
-    "location": "Ravenna (RA)",
+    "id": "981edc40-49b3-4444-81b2-b7704b388b0a",
+    "date": "2026-11-01",
+    "name": "XII^ Mezza Maratona \"Citta' di Foligno\"",
+    "location": "Foligno (PG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "39de7228-67ba-488b-a565-91c8f671be22",
-    "date": "2026-11-08",
-    "name": "CAMPIONATO ITALIANO INDIVIDUALE MASTER di MARATONA",
-    "location": "Ravenna (RA)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "ca1f2198-5b64-42e3-a8c0-d20bb242f4e9",
-    "date": "2026-11-08",
-    "name": "IV^ Co.Ro. Half Marathon",
-    "location": "Corigliano-rossano CS",
+    "id": "6c9cbd47-a18d-4f70-89f3-9854acc19a61",
+    "date": "2026-11-01",
+    "name": "XVIII^ Padenghe Half Marathon",
+    "location": "Padenghe Sul Garda (BS)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "7758b3a8-45b6-4deb-94d1-7e8028289583",
-    "date": "2026-11-08",
-    "name": "XX^ Maratonina Citta' di Crema",
-    "location": "Crema (CR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "6edfdffb-c5ba-4ae6-b40b-6db3648e32d0",
-    "date": "2026-11-08",
-    "name": "XV^ Lago Maggiore Marathon - 10 km",
-    "location": "Verbania (VB)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "f1cd4a1a-de11-42bf-8892-1af3e91c14b6",
-    "date": "2026-11-08",
-    "name": "XV^ Lago Maggiore Marathon - 33 km",
-    "location": "Verbania (VB)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "c06ebb70-7e45-4a57-b45d-f5aff29ddebf",
-    "date": "2026-11-08",
-    "name": "I^ La Mezza del Borgo",
-    "location": "Noto (SR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "f6e187b7-b9d4-41ce-a41d-536a485a5cb0",
-    "date": "2026-11-08",
-    "name": "Annullata - II^ Lumia Half Marathon",
-    "location": "Avola (SR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "08deb503-d925-4123-96dd-e65cb50f45b7",
-    "date": "2026-11-08",
-    "name": "XXXIII^ Maratonina Citta' di Busto Arsizio",
-    "location": "Busto Arsizio (VA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "f13fd681-1d92-45b6-a6ca-573b83594545",
-    "date": "2026-11-08",
-    "name": "XV^ Lago Maggiore Marathon - Mezza Maratona",
-    "location": "Verbania (VB)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "715790e1-695f-40b0-9e14-283011cdc211",
+    "id": "d7f20e1c-703a-419d-ac24-685b12e5432f",
     "date": "2026-11-08",
     "name": "XLVIII^ Strataranto Half Marathon del Mediterraneo",
     "location": "Taranto (TA)",
@@ -1800,7 +1692,61 @@
     "isInternational": false
   },
   {
-    "id": "c03b3356-99d4-4465-ad69-cca1565a179b",
+    "id": "47aee349-f773-4f62-a88a-5409c922d916",
+    "date": "2026-11-08",
+    "name": "CAMPIONATO ITALIANO INDIVIDUALE MASTER di MARATONA",
+    "location": "Ravenna (RA)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "d326f485-a724-4b66-8659-b03fa069f82d",
+    "date": "2026-11-08",
+    "name": "XXVII^ Maratona di Ravenna Citta' d'Arte",
+    "location": "Ravenna (RA)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "0c2047e0-8d72-4eaa-afaf-abc69ee42a29",
+    "date": "2026-11-08",
+    "name": "IV^ Co.Ro. Half Marathon",
+    "location": "Corigliano-rossano CS",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a5ced13d-a88d-41c4-9b32-bf92cd346983",
+    "date": "2026-11-08",
+    "name": "XIV^ Ravenna Half Marathon",
+    "location": "Ravenna (RA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "350726bd-6802-4b2c-a1e7-95f8898a576b",
+    "date": "2026-11-08",
+    "name": "XV^ Lago Maggiore Marathon - 33 km",
+    "location": "Verbania (VB)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "0039c196-1cc6-4040-a7d3-ea61a6b53280",
+    "date": "2026-11-08",
+    "name": "XV^ Lago Maggiore Marathon - 10 km",
+    "location": "Verbania (VB)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "60eb79f5-ff41-4e1a-8e85-328a871fb4f1",
     "date": "2026-11-08",
     "name": "XV^ Lago Maggiore Marathon - Maratona",
     "location": "Verbania (VB)",
@@ -1809,7 +1755,61 @@
     "isInternational": false
   },
   {
-    "id": "d1135ee1-f75f-4db1-b439-d253a656cfb3",
+    "id": "e9b7bac1-249f-4475-bc0c-612359456829",
+    "date": "2026-11-08",
+    "name": "XV^ Lago Maggiore Marathon - Mezza Maratona",
+    "location": "Verbania (VB)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "43feca38-9cad-4f0b-949e-8e07388a7081",
+    "date": "2026-11-08",
+    "name": "Annullata - II^ Lumia Half Marathon",
+    "location": "Avola (SR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "b86b27fe-5411-499f-bf5b-231251ea62fc",
+    "date": "2026-11-08",
+    "name": "XXXIII^ Maratonina Citta' di Busto Arsizio",
+    "location": "Busto Arsizio (VA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "81d03535-ec31-44ac-a85d-aa0a1f91aee3",
+    "date": "2026-11-08",
+    "name": "XX^ Maratonina Citta' di Crema",
+    "location": "Crema (CR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "993da6bf-2a55-405e-9ae8-f811bd0a586a",
+    "date": "2026-11-08",
+    "name": "I^ La Mezza del Borgo",
+    "location": "Noto (SR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "a7a1a501-44ff-4181-af60-cd8f2d1e88ac",
+    "date": "2026-11-08",
+    "name": "Annullata - II^ Nuraghes Marathon Sardinia",
+    "location": "Oristano (OR)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "2b06d61a-4b00-4a13-8645-badbceb9c8f5",
     "date": "2026-11-13",
     "name": "XXXI^ Straffetta Maratona Citta' di Palermo 4X10.5",
     "location": "Palermo (PA)",
@@ -1818,34 +1818,7 @@
     "isInternational": false
   },
   {
-    "id": "7fb96426-9409-41e7-bb4b-621d3920cbb5",
-    "date": "2026-11-15",
-    "name": "XIII^ Verona Run Halfmarathon",
-    "location": "Verona (VR)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "d71257d9-9156-4339-bfd3-d2176aede708",
-    "date": "2026-11-15",
-    "name": "XII^ Savona International Half Marathon",
-    "location": "Savona (SV)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "8bf81de0-01d5-4be2-9f50-0a392f04da4c",
-    "date": "2026-11-15",
-    "name": "II^ Due Mari Marathon",
-    "location": "Taranto (TA)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "ffb6483b-8345-4914-99c2-c98b81a524c7",
+    "id": "0fa449eb-237e-4dd3-a593-1eef31322b71",
     "date": "2026-11-15",
     "name": "Annullata - VII^ Maratona della Grecìa Salentina",
     "location": "Calimera (LE)",
@@ -1854,25 +1827,25 @@
     "isInternational": false
   },
   {
-    "id": "a6802dcf-7cce-4c10-91d0-02633ed32633",
+    "id": "751023f8-14f4-4cc1-a7cc-9c47af8cb7ec",
     "date": "2026-11-15",
-    "name": "XXV^ Verona Run Marathon",
-    "location": "Verona (VR)",
+    "name": "II^ Due Mari Marathon",
+    "location": "Taranto (TA)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "953d2e23-df3b-4e9b-8a69-52e03c109392",
+    "id": "bb7afaf2-373a-4b54-a2ea-edb70bdd0f4a",
     "date": "2026-11-15",
-    "name": "XXXI^ Maratona Citta' di Palermo",
-    "location": "Palermo (PA)",
-    "type": "Maratona",
+    "name": "XII^ Savona International Half Marathon",
+    "location": "Savona (SV)",
+    "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "72ca9bb7-4542-4184-8a77-4e10f7ffc4c2",
+    "id": "b7f2690e-03d7-43cc-b1d2-370b6d1e92cc",
     "date": "2026-11-15",
     "name": "XXXI^ Mezza Maratona Citta' di Palermo",
     "location": "Palermo (PA)",
@@ -1881,16 +1854,7 @@
     "isInternational": false
   },
   {
-    "id": "060ced4a-0b28-427b-b9bc-a37d8c5cea0d",
-    "date": "2026-11-15",
-    "name": "VII^ Mezza Maratona della Grecia Salentina",
-    "location": "Calimera (LE)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "b7dc91b3-e0e0-4d39-b14d-854ca686f282",
+    "id": "5f782213-fe69-47d5-aad1-e59ad49c1a90",
     "date": "2026-11-15",
     "name": "XX^ Mezza Maratona Terre d'Acqua Citta' di Trino",
     "location": "Trino (VC)",
@@ -1899,7 +1863,43 @@
     "isInternational": false
   },
   {
-    "id": "a31a5e32-8a29-4791-a061-870c8c46bfe7",
+    "id": "eb268562-19d1-495a-96e0-e36c0b73e9f8",
+    "date": "2026-11-15",
+    "name": "VII^ Mezza Maratona della Grecia Salentina",
+    "location": "Calimera (LE)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "155cbe08-e36a-4ab8-8d73-eede7c234cea",
+    "date": "2026-11-15",
+    "name": "XIII^ Verona Run Halfmarathon",
+    "location": "Verona (VR)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c0e1367f-c149-48ea-9b9c-0538e84c3194",
+    "date": "2026-11-15",
+    "name": "XXV^ Verona Run Marathon",
+    "location": "Verona (VR)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "ed5687f1-eef2-4583-aff0-3e9e18508f98",
+    "date": "2026-11-15",
+    "name": "XXXI^ Maratona Citta' di Palermo",
+    "location": "Palermo (PA)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "22e0538d-8052-4323-9888-88db81406e3d",
     "date": "2026-11-21",
     "name": "XII^ Mezza Maratona Int.le Citta' di Caserta \"Reggia-Reggia\"",
     "location": "Caserta (CE)",
@@ -1908,52 +1908,7 @@
     "isInternational": false
   },
   {
-    "id": "363214d1-39b2-43ca-aae0-59f768a9c3ec",
-    "date": "2026-11-22",
-    "name": "III^ BCC Brescia Park Run",
-    "location": "Brescia (BS)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "5975ba52-cc5d-4e8d-bd1f-e424180b7630",
-    "date": "2026-11-22",
-    "name": "IX^ Milano21",
-    "location": "Milano (MI)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "bbb923d2-e82d-4cff-8c63-337089464e2e",
-    "date": "2026-11-22",
-    "name": "10K San Francesco Marathon",
-    "location": "Assisi (PG)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "ef3dc663-837c-483a-b4a4-38a740bbe4e5",
-    "date": "2026-11-22",
-    "name": "IX^ Half Marathon Riviera Palme",
-    "location": "Grottammare (AP)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0d53b6a4-ec3e-4730-baa4-ccf2788d330c",
-    "date": "2026-11-22",
-    "name": "XXVIII^ Maratonina Citta' di Uta",
-    "location": "Uta (CA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "0c74f8f7-ed79-4316-a816-c2bf170df672",
+    "id": "c917a4bb-3203-468e-8e78-b8b6f3319536",
     "date": "2026-11-22",
     "name": "III^ San Francesco Marathon 2026",
     "location": "Assisi (PG)",
@@ -1962,16 +1917,34 @@
     "isInternational": false
   },
   {
-    "id": "e16bce04-f777-473a-8638-f77d491b9f70",
+    "id": "05a24ac2-dee8-41bb-aa6c-de3a0244d0a4",
     "date": "2026-11-22",
-    "name": "VII^ Maratonina di San Biagio",
-    "location": "San Biagio Di Callalta (TV)",
+    "name": "IX^ Half Marathon Riviera Palme",
+    "location": "Grottammare (AP)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "c5a62da0-05a3-407b-9546-cc9b9dd347d9",
+    "id": "9d8138e9-3381-4551-a08f-e5dfec6a0345",
+    "date": "2026-11-22",
+    "name": "XXVIII^ Maratonina Citta' di Uta",
+    "location": "Uta (CA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "218516f0-ea6f-4f11-b184-c9c08a00b18f",
+    "date": "2026-11-22",
+    "name": "III^ BCC Brescia Park Run",
+    "location": "Brescia (BS)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "6d48ec94-c6df-451d-8621-52a8f2731123",
     "date": "2026-11-22",
     "name": "II^ 21k San Francesco Marathon",
     "location": "Assisi (PG)",
@@ -1980,34 +1953,34 @@
     "isInternational": false
   },
   {
-    "id": "3d014b11-f99e-4eda-b271-3ff7860cb903",
-    "date": "2026-11-29",
-    "name": "VII^ La Michettiana Running",
-    "location": "Francavilla La Mare CH",
+    "id": "30374fe4-dd97-4509-8f34-993b968c9c2f",
+    "date": "2026-11-22",
+    "name": "IX^ Milano21",
+    "location": "Milano (MI)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "d500827c-a884-47f4-8da7-bca83e3aa4d2",
-    "date": "2026-11-29",
-    "name": "VI^ Torino City Half Marathon",
-    "location": "Torino (TO)",
+    "id": "3cbf0c5d-b7f0-49f9-b773-484d944c0c78",
+    "date": "2026-11-22",
+    "name": "VII^ Maratonina di San Biagio",
+    "location": "San Biagio Di Callalta (TV)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "2754012f-4eb7-4cdd-abbc-da47c705d64b",
-    "date": "2026-11-29",
-    "name": "XLII^ ESTRA Firenze Marathon",
-    "location": "Firenze (FI)",
+    "id": "a5e793c4-17aa-4cac-ab91-69921fa61b50",
+    "date": "2026-11-22",
+    "name": "10K San Francesco Marathon",
+    "location": "Assisi (PG)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "385eeb7b-60d1-4851-a3d6-1bffa8f09619",
+    "id": "0fa04955-687c-40b7-828d-36e7081ad7ba",
     "date": "2026-11-29",
     "name": "XXIII^ Fiumicino Half Marathon",
     "location": "Fiumicino (RM)",
@@ -2016,34 +1989,16 @@
     "isInternational": false
   },
   {
-    "id": "cb6ebc1c-2e29-4710-9cd9-efe19504928d",
+    "id": "a60760c2-0b73-4fb7-93ca-5097926746dc",
     "date": "2026-11-29",
-    "name": "XXIV^ Mezza Maratona \"Citta' di Palmanova\"",
-    "location": "Palmanova (UD)",
+    "name": "VII^ La Michettiana Running",
+    "location": "Francavilla La Mare CH",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "568a1499-cde4-46fc-86bf-0f65f4dc66c5",
-    "date": "2026-11-29",
-    "name": "VI^ Torino City Marathon",
-    "location": "Torino (TO)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "95cf2804-91bd-4a11-904d-49aee93557cd",
-    "date": "2026-11-29",
-    "name": "III^ 10K Firenze Marathon",
-    "location": "Firenze (FI)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "aa38c657-7121-4a9e-9036-8ec2c52dff3c",
+    "id": "96fa453a-0c8c-4fd6-ad5e-f80e6e093cf3",
     "date": "2026-11-29",
     "name": "XXIII^ Half Marathon Mazara",
     "location": "Mazara Del Vallo (TP)",
@@ -2052,43 +2007,52 @@
     "isInternational": false
   },
   {
-    "id": "62da67c5-0a36-48a6-b858-e5f657924cb7",
-    "date": "2026-12-06",
-    "name": "XV^ Como Lake Half Marathon",
-    "location": "Como (CO)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "13fb16c8-15a2-45ad-9332-fee3e2f5f176",
-    "date": "2026-12-06",
-    "name": "XI^ La Sanremo International Marathon - La Maratona Int.le di Sanremo e della Riviera dei Fiori",
-    "location": "Sanremo (IM)",
+    "id": "e31671f3-f384-4f25-a67d-b84cb9b3077d",
+    "date": "2026-11-29",
+    "name": "XLII^ ESTRA Firenze Marathon",
+    "location": "Firenze (FI)",
     "type": "Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "34a94ffd-e340-4424-95ed-e083f4b8b3d4",
-    "date": "2026-12-06",
-    "name": "V^ La Sanremo International Half Marathon - La Mezza Maratona Int.le di Sanremo e della Riviera dei Fiori",
-    "location": "Sanremo (IM)",
+    "id": "82d0c301-821b-42f5-b71e-9157ef5b7354",
+    "date": "2026-11-29",
+    "name": "VI^ Torino City Half Marathon",
+    "location": "Torino (TO)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "0dbc8d61-90b4-434e-9004-81a4a88c5bcd",
-    "date": "2026-12-06",
-    "name": "I^ Mezza Maratona Citta' di Termini Imerese",
-    "location": "Termini Imerese (PA)",
+    "id": "0335b4df-fd6c-43be-9654-579b961985a5",
+    "date": "2026-11-29",
+    "name": "VI^ Torino City Marathon",
+    "location": "Torino (TO)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c8cebed9-373a-4218-9e81-1d9535717069",
+    "date": "2026-11-29",
+    "name": "XXIV^ Mezza Maratona \"Citta' di Palmanova\"",
+    "location": "Palmanova (UD)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "5b8bffe7-d442-4b36-8ce7-74a38677d5ce",
+    "id": "4d64b77c-393a-43c7-966f-6063c0e7d32a",
+    "date": "2026-11-29",
+    "name": "III^ 10K Firenze Marathon",
+    "location": "Firenze (FI)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "5df23d38-d925-4a3e-b007-3ec57622d21f",
     "date": "2026-12-06",
     "name": "XVI^ Mezzamaratona Citta' di Monopoli",
     "location": "Monopoli (BA)",
@@ -2097,16 +2061,7 @@
     "isInternational": false
   },
   {
-    "id": "799d93c1-849d-44eb-bab0-b83235d11f23",
-    "date": "2026-12-06",
-    "name": "XVIII^ CagliariRespira'26, 18a Mezza Maratona Int.le Citta' di Cagliari",
-    "location": "Cagliari (CA)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "ebbe8bc7-1b04-4245-8e08-e1ec0bd3b01d",
+    "id": "8f3025f8-cbf2-43bf-8788-3ffdd89689c0",
     "date": "2026-12-06",
     "name": "XXV^ Maratona di Latina",
     "location": "Latina (LT)",
@@ -2115,7 +2070,52 @@
     "isInternational": false
   },
   {
-    "id": "205e1930-f83a-4fa0-a5b8-2b641b71ba54",
+    "id": "b2e06d5d-1d28-4ffe-9625-15c9812529be",
+    "date": "2026-12-06",
+    "name": "I^ Mezza Maratona Citta' di Termini Imerese",
+    "location": "Termini Imerese (PA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "3c39f0ca-0cb1-472c-8186-7319ace666e9",
+    "date": "2026-12-06",
+    "name": "XV^ Como Lake Half Marathon",
+    "location": "Como (CO)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "1f3bcc78-216d-4c18-ad96-68eec074b0b0",
+    "date": "2026-12-06",
+    "name": "V^ La Sanremo International Half Marathon - La Mezza Maratona Int.le di Sanremo e della Riviera dei Fiori",
+    "location": "Sanremo (IM)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "191f14ef-d44b-4217-9975-a16de896434a",
+    "date": "2026-12-06",
+    "name": "XI^ La Sanremo International Marathon - La Maratona Int.le di Sanremo e della Riviera dei Fiori",
+    "location": "Sanremo (IM)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "28caa245-9967-4960-900e-c80d369d4123",
+    "date": "2026-12-06",
+    "name": "XVIII^ CagliariRespira'26, 18a Mezza Maratona Int.le Citta' di Cagliari",
+    "location": "Cagliari (CA)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "651dc189-ee35-4667-8c10-594a53202286",
     "date": "2026-12-08",
     "name": "XV^ Mezza Maratona \"Giuseppe Cerone\" Citta' di San Miniato",
     "location": "San Miniato (PI)",
@@ -2124,34 +2124,7 @@
     "isInternational": false
   },
   {
-    "id": "4785a797-1b2c-4d3f-b74c-3af0505ea570",
-    "date": "2026-12-13",
-    "name": "XXX^ Maratona di Reggio Emilia Citta' del Tricolore",
-    "location": "Reggio Nell'emilia (RE)",
-    "type": "Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "5fb62c62-4792-492b-8db9-b4edb8875488",
-    "date": "2026-12-13",
-    "name": "IV^ 13ª Fatica di Ercole \"Cinghiale di Erimanto\"",
-    "location": "Policoro (MT)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "7f7bb0e8-2af0-4152-8b63-1ec1102390b1",
-    "date": "2026-12-13",
-    "name": "XL^ Salento Half Marathon 2026",
-    "location": "Collepasso (LE)",
-    "type": "Mezza Maratona",
-    "status": "Confermata",
-    "isInternational": false
-  },
-  {
-    "id": "43287485-cc60-4939-a8d8-9fe2f1a89088",
+    "id": "59b8f1a8-1d59-481b-8333-25518944ace9",
     "date": "2026-12-13",
     "name": "VIII^ Naturosa Catania Marathon",
     "location": "Catania (CT)",
@@ -2160,16 +2133,16 @@
     "isInternational": false
   },
   {
-    "id": "2c9ed8ee-a20b-4d99-8a21-eae456aed4eb",
+    "id": "82549893-eae1-4888-86a8-2269d8288592",
     "date": "2026-12-13",
-    "name": "XLVIII^ Invernalissima",
-    "location": "Bastia Umbra (PG)",
+    "name": "IV^ 13ª Fatica di Ercole \"Cinghiale di Erimanto\"",
+    "location": "Policoro (MT)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "942767e4-420b-48f8-803e-e33c7d6c9020",
+    "id": "4ad344b7-fbf7-4a4a-9eac-2ad400c63809",
     "date": "2026-12-13",
     "name": "III^ Mezza Maratona del Tricolore",
     "location": "Reggio Nell'emilia (RE)",
@@ -2178,7 +2151,7 @@
     "isInternational": false
   },
   {
-    "id": "a8c54846-5d06-4cd8-ac62-945f80a063a3",
+    "id": "3441a31b-e38f-4731-bc6b-e79c26e7fb20",
     "date": "2026-12-13",
     "name": "VIII^ Naturosa Half Marathon",
     "location": "Catania (CT)",
@@ -2187,25 +2160,34 @@
     "isInternational": false
   },
   {
-    "id": "e52126b2-34ea-4030-a553-58d4d6121190",
-    "date": "2026-12-20",
-    "name": "XX^ Maratonina della Citta' Murata",
-    "location": "Cittadella (PD)",
+    "id": "9f101e0e-bc5c-4208-bb5a-32bb0ddbfafd",
+    "date": "2026-12-13",
+    "name": "XXX^ Maratona di Reggio Emilia Citta' del Tricolore",
+    "location": "Reggio Nell'emilia (RE)",
+    "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "7cb14c93-93f9-422a-9062-8deecdb5bb84",
+    "date": "2026-12-13",
+    "name": "XL^ Salento Half Marathon 2026",
+    "location": "Collepasso (LE)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "1de85945-7f4e-4f2f-82a7-ef2151aa35af",
-    "date": "2026-12-20",
-    "name": "VIII^ Half Marathon Arancia di Ribera D.O.P.",
-    "location": "Ribera (AG)",
+    "id": "dc1974dc-5718-4d90-90ac-bb30403dbd8a",
+    "date": "2026-12-13",
+    "name": "XLVIII^ Invernalissima",
+    "location": "Bastia Umbra (PG)",
     "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   },
   {
-    "id": "4c4708e7-3fb8-4cf5-8b38-ddb07f9f9555",
+    "id": "453f3902-f4ab-42c3-9a7a-6704a45c6740",
     "date": "2026-12-20",
     "name": "XLVII^ Corrida del Progresso",
     "location": "Castel Maggiore (BO)",
@@ -2214,7 +2196,16 @@
     "isInternational": false
   },
   {
-    "id": "310b2f73-212a-45d9-8af8-9b72fa939048",
+    "id": "b095ff16-aeb5-4aa5-88db-1e234758ef58",
+    "date": "2026-12-20",
+    "name": "XX^ Maratonina della Citta' Murata",
+    "location": "Cittadella (PD)",
+    "type": "Mezza Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "c83adf31-bbba-492f-800a-34e4b860d104",
     "date": "2026-12-20",
     "name": "XIX^ Mezza Maratona di Pisa La Pisanina",
     "location": "Pisa (PI)",
@@ -2223,11 +2214,20 @@
     "isInternational": false
   },
   {
-    "id": "20f69c39-ca3a-451c-b792-5727f6e6e13d",
+    "id": "a159241a-2af2-4b94-9b1f-002004a63a04",
     "date": "2026-12-20",
     "name": "XXVII^ Maratona di Pisa",
     "location": "Pisa (PI)",
     "type": "Maratona",
+    "status": "Confermata",
+    "isInternational": false
+  },
+  {
+    "id": "75f3fd94-d1d9-4060-8e8f-d05f19481315",
+    "date": "2026-12-20",
+    "name": "VIII^ Half Marathon Arancia di Ribera D.O.P.",
+    "location": "Ribera (AG)",
+    "type": "Mezza Maratona",
     "status": "Confermata",
     "isInternational": false
   }
